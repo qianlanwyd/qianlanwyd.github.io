@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2020.09 - 2022.10*, master student in the Department of Information and Communications Engineering of Tokyo Institute of Technology, advised by Prof. Takahiro Shinozaki.
 - *2015.09 - 2019.06*, undergraduate student in the Department of Computer Science and Technology of Nanjing University, advised by Prof. Xinyu Dai.
 
-# 💼Internships
+# 💼 Internships
 - *2022.05 - 2022.10*, Microsoft Research Asia, advised by Dr. Jindong Wang.
 - *2022.02 - 2022.05*, Westlake University, advised by Prof. Yue Zhang.
 - *2021.11 - 2022.02*, Microsoft Research Asia, advised by Dr. Jindong Wang.
