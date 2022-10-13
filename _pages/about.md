@@ -27,16 +27,20 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.09*: &nbsp;🎉🎉 Our paper USB: A Unified Semi-supervised Learning Benchmark for Classification has been accepted by NeurIPS 2022 Datasets and Benchmarks Track. 
 
 # 📖 Educations
-- *2023.09 - 2027.06*,    the Department of Information and Communications Engineering of Tokyo Institute of Technology, advised by Prof. Takahiro Shinozaki.
+- *2023.09 - 2027.06*, doctoral student in the National Engineering Research Center for Software Engineering of Peking University, advised by Prof. Wei Ye and Prof. Shikun Zhang.
 - *2020.09 - 2022.10*, master student in the Department of Information and Communications Engineering of Tokyo Institute of Technology, advised by Prof. Takahiro Shinozaki.
 - *2015.09 - 2019.06*, undergraduate student in the Department of Computer Science and Technology of Nanjing University.
 
 # 💼Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.05 - 2022.10*, Microsoft Research Asia, advised by Dr. Jindong Wang.
+- *2022.02 - 2022.05*, Westlake University, advised by Prof. Yue Zhang.
+- *2021.11 - 2022.02*, Microsoft Research Asia, advised by Dr. Jindong Wang.
 
 # 📝 Publications 
 
-- [USB: A Unified Semi-supervised Learning Benchmark for Classification.](https://arxiv.org/abs/2208.07204) [\[code\]](https://github.com/microsoft/Semi-supervised-learning), **Yidong Wang**, Hao Chen, Yue Fan, Wang Sun, Ran Tao, Wenxin Hou, Renjie Wang, Linyi Yang, Zhi Zhou, Lan-Zhe Guo, Heli Qi, Zhen Wu, Yu-Feng Li, Satoshi Nakamura, Wei Ye, Marios Savvides, Bhiksha Raj, Takahiro Shinozaki, Bernt Schiele, Jindong Wang, Xing Xie, and Yue Zhang. Advances in Neural Information Processing Systems 2022 (**NeurIPS 2022**).
+- USB: A Unified Semi-supervised Learning Benchmark for Classification. [\[paper\]](https://arxiv.org/abs/2208.07204); [\[code\]](https://github.com/microsoft/Semi-supervised-learning).
+
+**Yidong Wang**, Hao Chen, Yue Fan, Wang Sun, Ran Tao, Wenxin Hou, Renjie Wang, Linyi Yang, Zhi Zhou, Lan-Zhe Guo, Heli Qi, Zhen Wu, Yu-Feng Li, Satoshi Nakamura, Wei Ye, Marios Savvides, Bhiksha Raj, Takahiro Shinozaki, Bernt Schiele, Jindong Wang, Xing Xie, and Yue Zhang. Advances in Neural Information Processing Systems 2022 (**NeurIPS 2022**).
 
 # 💻 Projects
 
