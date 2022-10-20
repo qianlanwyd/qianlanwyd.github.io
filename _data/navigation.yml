@@ -5,6 +5,12 @@ main:
 
   - title: "News"
     url: "/#-news"
+  
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Internships"
+    url: "/#-internships"
 
   - title: "Preprints"
     url: "/#-preprints"
@@ -17,9 +23,7 @@ main:
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
+    
+  - title: "Academic Services"
+    url: "/#-academic-services"
 
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Internships"
-    url: "/#-internships"
