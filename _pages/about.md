@@ -36,6 +36,8 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
 # 📝 Preprints
 - Conv-Adapter: Exploring Parameter Efficient Transfer Learning for ConvNets. [\[paper\]](https://arxiv.org/abs/2208.07463). Hao Chen, Ran Tao, Han Zhang, **Yidong Wang**, Wei Ye, Jindong Wang, Guosheng Hu, Marios Savvides.
+- Towards Optimization and Model Selection for Domain Generalization: A Mixup-guided Solution. [\[paper\]](https://arxiv.org/abs/2209.00652). Wang Lu, Jindong Wang, **Yidong Wang**, Kan Ren, Yiqiang Chen, Xing Xie. 
+- GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-distribution Generalization Perspective. [\[paper\]](https://arxiv.org/abs/2211.08073). Linyi Yang, Shuibai Zhang, Libo Qin, Yafu Li, **Yidong Wang**, Hanmeng Liu, Jindong Wang, Xing Xie, Yue Zhang.
 
 # 📝 Publications 
 - FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning. [\[paper\]](https://arxiv.org/abs/2205.07246); [\[code\]](https://github.com/microsoft/Semi-supervised-learning). **Yidong Wang**, Hao Chen, Qiang Heng, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie. International Conference on Learning Representations 2023 (**ICLR 2023**).
@@ -61,4 +63,5 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 - People's Scholarship, Nanjing University, 2017&2018.
 
 # 📄 Academic Services
-- Reviewer for Conferences: NeurIPS 2022， CVPR 2023.
+- Reviewer for Conferences: NeurIPS 2022, CVPR 2023.
+- Reviewer for Journals: JCST 2022.
