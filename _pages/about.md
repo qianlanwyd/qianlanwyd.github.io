@@ -61,4 +61,4 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 - People's Scholarship, Nanjing University, 2017&2018.
 
 # 📄 Academic Services
-- Reviewer for Conferences: CVPR 2022, ICML 2022, NeurIPS 2022.
+- Reviewer for Conferences: NeurIPS 2022， CVPR 2023.
