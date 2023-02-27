@@ -37,7 +37,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 # 📝 Preprints
 - On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective. [\[paper\]](https://arxiv.org/abs/2302.12095).
   
-  Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, Yidong Wang, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, Xing Xie.
+  Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, **Yidong Wang**, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, Xing Xie.
 
 - Conv-Adapter: Exploring Parameter Efficient Transfer Learning for ConvNets. [\[paper\]](https://arxiv.org/abs/2208.07463). 
   
