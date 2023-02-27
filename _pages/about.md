@@ -78,5 +78,5 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 - Renmin Scholarship, Nanjing University, 2017&2018.
 
 # 📄 Academic Services
-- Reviewer for Conferences: NeurIPS 2022, CVPR 2023.
+- Reviewer for Conferences: NeurIPS 2022, CVPR 2023, ICML 2023.
 - Reviewer for Journals: JCST 2022.
