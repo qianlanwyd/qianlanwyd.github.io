@@ -57,21 +57,52 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
 # 📝 Publications 
 - FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning. [\[paper\]](https://arxiv.org/abs/2205.07246);  [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning)
-  **Yidong Wang**, Hao Chen, Qiang Heng, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie. International Conference on Learning Representations 2023 (**ICLR 2023**).
+  
+  **Yidong Wang**, Hao Chen, Qiang Heng, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie.
+  
+  International Conference on Learning Representations 2023 (**ICLR 2023**).
+
 - SoftMatch: Addressing the Quantity-Quality Tradeoff in Semi-supervised Learning. [\[paper\]](https://arxiv.org/abs/2301.10921); [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning) 
-  Hao Chen, Ran Tao, Yue Fan, **Yidong Wang**, Marios Savvides, Jindong Wang, Bhiksha Raj, Xing Xie, Bernt Schiele. International Conference on Learning Representations 2023 (**ICLR 2023**).
+  
+  Hao Chen, Ran Tao, Yue Fan, **Yidong Wang**, Marios Savvides, Jindong Wang, Bhiksha Raj, Xing Xie, Bernt Schiele. 
+  
+  International Conference on Learning Representations 2023 (**ICLR 2023**).
+
 - USB: A Unified Semi-supervised Learning Benchmark for Classification. [\[paper\]](https://arxiv.org/abs/2208.07204); [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning) 
-  **Yidong Wang**, Hao Chen, Yue Fan, Wang Sun, Ran Tao, Wenxin Hou, Renjie Wang, Linyi Yang, Zhi Zhou, Lan-Zhe Guo, Heli Qi, Zhen Wu, Yu-Feng Li, Satoshi Nakamura, Wei Ye, Marios Savvides, Bhiksha Raj, Takahiro Shinozaki, Bernt Schiele, Jindong Wang, Xing Xie, Yue Zhang. Advances in Neural Information Processing Systems 2022 (**NeurIPS 2022**).
+  
+  **Yidong Wang**, Hao Chen, Yue Fan, Wang Sun, Ran Tao, Wenxin Hou, Renjie Wang, Linyi Yang, Zhi Zhou, Lan-Zhe Guo, Heli Qi, Zhen Wu, Yu-Feng Li, Satoshi Nakamura, Wei Ye, Marios Savvides, Bhiksha Raj, Takahiro Shinozaki, Bernt Schiele, Jindong Wang, Xing Xie, Yue Zhang. 
+  
+  Advances in Neural Information Processing Systems 2022 (**NeurIPS 2022**).
+
 - Margin Calibration for Long-Tailed Visual Recognition. [\[paper\]](https://arxiv.org/abs/2112.07225). 
-  **Yidong Wang**, Bowen Zhang, Wenxin Hou, Zhen Wu, Jindong Wang, Takahiro Shinozaki. Asian Conference on Machine Learning 2022 (**ACML 2022**).
+  
+  **Yidong Wang**, Bowen Zhang, Wenxin Hou, Zhen Wu, Jindong Wang, Takahiro Shinozaki. 
+  
+  Asian Conference on Machine Learning 2022 (**ACML 2022**).
+
 - Exploiting Unlabeled Data for Target-Oriented Opinion Words Extraction. [\[paper\]](https://arxiv.org/abs/2208.08280); [![](https://img.shields.io/github/stars/TOWESSL/TOWESSL?style=social&label=Code+Stars)](https://github.com/TOWESSL/TOWESSL) 
-  **Yidong Wang**, Hao Wu, Ao Liu, Wenxin Hou, Zhen Wu, Jindong Wang, Takahiro Shinozaki, Manabu Okumura, Yue Zhang. International Conference on Computational Linguistics 2022 (**COLING 2022**).
+  
+  **Yidong Wang**, Hao Wu, Ao Liu, Wenxin Hou, Zhen Wu, Jindong Wang, Takahiro Shinozaki, Manabu Okumura, Yue Zhang. 
+  
+  International Conference on Computational Linguistics 2022 (**COLING 2022**).
+
 - Exploiting Adapters for Cross-lingual Low-resource Speech Recognition. [\[paper\]](https://arxiv.org/abs/2105.11905); [![](https://img.shields.io/github/stars/jindongwang/transferlearning?style=social&label=Code+Stars)](https://github.com/jindongwang/transferlearning/tree/master/code/ASR/Adapter) 
-  Wenxin Hou, Han Zhu, **Yidong Wang**, Jindong Wang, Tao Qin, Renjun Xu, Takahiro Shinozaki. IEEE/ACM Transactions on Audio, Speech and Language Processing 2022 (**TASLP 2022**).
+  
+  Wenxin Hou, Han Zhu, **Yidong Wang**, Jindong Wang, Tao Qin, Renjun Xu, Takahiro Shinozaki. 
+  
+  IEEE/ACM Transactions on Audio, Speech and Language Processing 2022 (**TASLP 2022**).
+
 - Flexmatch: Boosting Semi-supervised Learning with Curriculum Pseudo Labeling. [\[paper\]](https://arxiv.org/abs/2110.08263); [![](https://img.shields.io/github/stars/TorchSSL/TorchSSL?style=social&label=Code+Stars)](https://github.com/TorchSSL/TorchSSL) 
-  Bowen Zhang, **Yidong Wang (co-first author)**, Wenxin Hou, Hao Wu, Jindong Wang, Manabu Okumura, Takahiro Shinozaki. Advances in Neural Information Processing Systems 2021 (**NeurIPS 2021**).
+  
+  Bowen Zhang, **Yidong Wang (co-first author)**, Wenxin Hou, Hao Wu, Jindong Wang, Manabu Okumura, Takahiro Shinozaki. 
+  
+  Advances in Neural Information Processing Systems 2021 (**NeurIPS 2021**).
+
 - Meta-Adapter: Efficient Cross-Lingual Adaptation With Meta-Learning. [\[paper\]](https://ieeexplore.ieee.org/document/9414959); [![](https://img.shields.io/github/stars/jindongwang/transferlearning?style=social&label=Code+Stars)](https://github.com/jindongwang/transferlearning/tree/master/code/ASR/Adapter) 
-  Wenxin Hou, **Yidong Wang**, Shengzhou Gao, Takahiro Shinozaki. IEEE International Conference on Acoustics, Speech, and Signal Processing 2021 (**ICASSP 2021**).
+  
+  Wenxin Hou, **Yidong Wang**, Shengzhou Gao, Takahiro Shinozaki. 
+  
+  IEEE International Conference on Acoustics, Speech, and Signal Processing 2021 (**ICASSP 2021**).
 
 # 💻 Projects
 - USB [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning) is a Pytorch-based Python package for Semi-Supervised Learning (SSL). It is easy-to-use/extend, affordable, and comprehensive for developing and evaluating SSL algorithms. USB provides the implementation of 14 SSL algorithms based on Consistency Regularization, and 15 tasks for evaluation from CV, NLP, and Audio domain. I am the main contributor to this repo and now leading the USB team.
