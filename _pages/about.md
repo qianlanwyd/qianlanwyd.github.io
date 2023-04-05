@@ -35,6 +35,10 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 - *2021.11 - 2022.02*, Microsoft Research Asia, advised by Dr. Jindong Wang.
 
 # 📝 Preprints
+- Exploring Vision-Language Models for Imbalanced Learning. [\[paper\]](https://arxiv.org/abs/2304.01457).
+
+  **Yidong Wang**, Zhuohao Yu, Jindong Wang, Qiang Heng, Hao Chen, Wei Ye, Rui Xie, Xing Xie, Shikun Zhang.
+
 - On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective. [\[paper\]](https://arxiv.org/abs/2302.12095).
   
   Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, **Yidong Wang**, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, Xing Xie.
@@ -118,5 +122,5 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 - Renmin Scholarship, Nanjing University, 2017&2018.
 
 # 📄 Academic Services
-- Reviewer for Conferences: NeurIPS 2022, CVPR 2023, ICML 2023.
-- Reviewer for Journals: JCST 2022.
+- Reviewer for Conferences: NeurIPS 2022, CVPR 2023, ICML 2023, NeurIPS 2023.
+- Reviewer for Journals: ACM TIST, JCST.
