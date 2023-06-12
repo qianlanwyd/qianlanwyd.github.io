@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie in semi-supervised learning, transfer learning, and imbalanced learning. I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=YomxTXQAAAAJ&hl=en'>google scholar citations almost <strong><span id='total_cit'>300</span></strong></a>.
+Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie in semi-supervised learning, transfer learning, and imbalanced learning. I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=YomxTXQAAAAJ&hl=en'>google scholar citations almost <strong><span id='total_cit'>400</span></strong></a>.
 
 
 # 🔥 News
