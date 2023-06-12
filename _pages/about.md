@@ -52,6 +52,8 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
   **Yidong Wang**, Zhuohao Yu, Jindong Wang, Qiang Heng, Hao Chen, Wei Ye, Rui Xie, Xing Xie, Shikun Zhang.
   
+   International Journal of Computer Vision 2023 (**IJCV 2023**).
+  
 - GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-distribution Generalization Perspective. [\[paper\]](https://arxiv.org/abs/2211.08073); [![](https://img.shields.io/github/stars/YangLinyi/GLUE-X?style=social&label=Code+Stars)](https://github.com/YangLinyi/GLUE-X)
 
   Linyi Yang, Shuibai Zhang, Libo Qin, Yafu Li, **Yidong Wang**, Hanmeng Liu, Jindong Wang, Xing Xie, Yue Zhang. 
