@@ -36,18 +36,23 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
 # 📝 Preprints
 - PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization. [\[paper\]](https://arxiv.org/abs/2306.05087).
+  
   **Yidong Wang**, Zhuohao Yu, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang.
 
 - Evaluating open question answering evaluation. [\[paper\]](https://arxiv.org/abs/2305.12421). 
+  
   Cunxiang Wang, Sirui Cheng, Zhikun Xu, Bowen Ding, **Yidong Wang**, Yue Zhang.
   
 - Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations. [\[paper\]](https://arxiv.org/abs/2305.12715).
+  
   Hao Chen, Ankit Shah, Jindong Wang, Ran Tao, **Yidong Wang**, Xing Xie, Masashi Sugiyama, Rita Singh, Bhiksha Raj.
   
 - Out-of-Distribution Generalization in Text Classification: Past, Present, and Future. [\[paper\]](https://arxiv.org/abs/2305.14104).
+  
   Linyi Yang, Yaoxiao Song, Xuan Ren, Chenyang Lyu, **Yidong Wang**, Lingqiao Liu, Jindong Wang, Jennifer Foster, Yue Zhang.
   
 - PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts. [\[paper\]](https://arxiv.org/abs/2306.04528).
+  
   Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, **Yidong Wang**, Linyi Yang, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie.
 
 - Conv-Adapter: Exploring Parameter Efficient Transfer Learning for ConvNets. [\[paper\]](https://arxiv.org/abs/2208.07463). 
