@@ -68,7 +68,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
   Wang Lu, Jindong Wang, **Yidong Wang**, Kan Ren, Yiqiang Chen, Xing Xie.
 
-  KDD 2023 workshop on Causal Discovery, Prediction and Decision.
+  KDD 2023 workshop on Causal Discovery, Prediction and Decision (**CDPD 2023**)
 
 - Exploring Vision-Language Models for Imbalanced Learning. [\[paper\]](https://arxiv.org/abs/2304.01457); [![](https://img.shields.io/github/stars/Imbalance-VLM/Imbalance-VLM?style=social&label=Code+Stars)](https://github.com/Imbalance-VLM/Imbalance-VLM)
 
