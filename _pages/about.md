@@ -25,7 +25,6 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 - *2022.09*: &nbsp;🎉🎉 Our paper USB: A Unified Semi-supervised Learning Benchmark for Classification has been accepted by NeurIPS 2022 Datasets and Benchmarks Track. 
 
 # 📖 Educations
-- *2023.09 - 2027.06*, doctoral student in the National Engineering Research Center for Software Engineering of Peking University, advised by Prof. Wei Ye and Prof. Shikun Zhang.
 - *2020.09 - 2022.10*, master student in the Department of Information and Communications Engineering of Tokyo Institute of Technology, advised by Prof. Takahiro Shinozaki.
 - *2015.09 - 2019.06*, undergraduate student in the Department of Computer Science and Technology of Nanjing University, advised by Prof. Xinyu Dai.
 
