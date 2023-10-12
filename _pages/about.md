@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie in semi-supervised learning, transfer learning, and imbalanced learning. I have published 10+ papers at the top international AI Conferences / Journals with total <a href='https://scholar.google.com/citations?user=YomxTXQAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a>.
+Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie in semi-supervised learning, transfer learning, and imbalanced learning. I have published 10+ papers at the top international AI Conferences / Journals with total <a href='https://scholar.google.com/citations?user=YomxTXQAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>700+</span></strong></a>.
 
 
 # 🔥 News
@@ -46,10 +46,6 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 - (5) Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations. [\[paper\]](https://arxiv.org/abs/2305.12715).
   
   Hao Chen, Ankit Shah, Jindong Wang, Ran Tao, **Yidong Wang**, Xing Xie, Masashi Sugiyama, Rita Singh, Bhiksha Raj.
-  
-- (4) Out-of-Distribution Generalization in Text Classification: Past, Present, and Future. [\[paper\]](https://arxiv.org/abs/2305.14104).
-  
-  Linyi Yang, Yaoxiao Song, Xuan Ren, Chenyang Lyu, **Yidong Wang**, Lingqiao Liu, Jindong Wang, Jennifer Foster, Yue Zhang.
 
 - (3) PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts. [\[paper\]](https://arxiv.org/abs/2306.04528); [![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Code+Stars)](https://github.com/microsoft/promptbench)
   
@@ -64,6 +60,12 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   Hao Chen, Yue Fan, **Yidong Wang**, Jindong Wang, Bernt Schiele, Xing Xie, Marios Savvides, Bhiksha Raj. 
 
 # 📝 Publications
+- (15) Out-of-Distribution Generalization in Text Classification: Past, Present, and Future. [\[paper\]](https://arxiv.org/abs/2305.14104).
+  
+  Linyi Yang, Yaoxiao Song, Xuan Ren, Chenyang Lyu, **Yidong Wang**, Lingqiao Liu, Jindong Wang, Jennifer Foster, Yue Zhang.
+
+  The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**).
+  
 - (14) Evaluating open question answering evaluation. [\[paper\]](https://arxiv.org/abs/2305.12421); [![](https://img.shields.io/github/stars/wangcunxiang/QA-Eval?style=social&label=Code+Stars)](https://github.com/wangcunxiang/QA-Eval)
   
   Cunxiang Wang, Sirui Cheng, Zhikun Xu, Bowen Ding, **Yidong Wang**, Yue Zhang.
@@ -163,5 +165,5 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 - Renmin Scholarship, Nanjing University, 2017&2018.
 
 # 📄 Academic Services
-- Reviewer for Conferences: NeurIPS 2022, CVPR 2023, ICML 2023, ICCV 2023, NeurIPS 2023.
-- Reviewer for Journals: ACM TIST, JCST.
+- Reviewer for Conferences: NeurIPS 2022, CVPR 2023, ICML 2023, ICCV 2023, NeurIPS 2023, AAAI 2024, ICLR 2024.
+- Reviewer for Journals: IJCV, ACM TIST, JCST.
