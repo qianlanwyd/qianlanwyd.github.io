@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie in semi-supervised learning, transfer learning, and imbalanced learning. I have published 10+ papers at the top international AI Conferences / Journals with total <a href='https://scholar.google.com/citations?user=YomxTXQAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>700+</span></strong></a>.
+Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie in semi-supervised learning, transfer learning, and imbalanced learning. I have published 10+ papers at the top international AI Conferences / Journals with total <a href='https://scholar.google.com/citations?user=YomxTXQAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
 
 
 # 🔥 News
@@ -161,6 +161,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 - Microsoft NeuralSpeech [![](https://img.shields.io/github/stars/microsoft/NeuralSpeech?style=social&label=Code+Stars)](https://github.com/microsoft/NeuralSpeech) is a research project in Microsoft Research Asia focusing on neural network based speech processing, including automatic speech recognition (ASR), text to speech (TTS), etc. The code of Exploiting Adapters for Cross-lingual Low-resource Speech Recognition (TASLP 2022) has been moved to this repo.
 
 # 🎖 Honors and Awards
+- First Place in the Entrance Examination for PhD at the School of Software and Microelectronics, Peking University, 2023.
 - Outstanding Student Award, Tokyo Institue of Technology, 2022.
 - Stars of Tomorrow, Microsoft Research Asia, 2021&2022.
 - Jasso Scholarship, Tokyo Institue of Technology, 2020.
