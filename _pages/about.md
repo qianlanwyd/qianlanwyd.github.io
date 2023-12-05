@@ -76,7 +76,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
    Advances in Neural Information Processing Systems 2023 (**NeurIPS 2023**).
 
-- (13) Non-lD always Bad? Semi-Supervised Heterogeneous Federated Learning with Local Knowledge Enhancement.
+- (13) Non-IID always Bad? Semi-Supervised Heterogeneous Federated Learning with Local Knowledge Enhancement.
   
   Chao Zhang, Fangzhao Wu, Jingwei Yi, Derong Xu, Yang Yu, Jingdong Wang, **Yidong Wang**, Tong Xu, Xing Xie, Enhong Chen.
 
