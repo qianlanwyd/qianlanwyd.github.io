@@ -35,13 +35,9 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 - *2021.11 - 2022.02*, Microsoft Research Asia, advised by Dr. Jindong Wang.
 
 # 📝 Preprints
-- (7) Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity. [\[paper\]](https://arxiv.org/abs/2310.07521); [![](https://img.shields.io/github/stars/wangcunxiang/LLM-Factuality-Survey?style=social&label=Code+Stars)](https://github.com/wangcunxiang/LLM-Factuality-Survey)
+- (6) Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity. [\[paper\]](https://arxiv.org/abs/2310.07521); [![](https://img.shields.io/github/stars/wangcunxiang/LLM-Factuality-Survey?style=social&label=Code+Stars)](https://github.com/wangcunxiang/LLM-Factuality-Survey)
 
   Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi, **Yidong Wang**, Linyi Yang, Jindong Wang, Xing Xie, Zheng Zhang and Yue Zhang.
-  
-- (6) A Survey on Evaluation of Large Language Models. [\[paper\]](https://arxiv.org/abs/2307.03109); [![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Code+Stars)](https://github.com/MLGroupJLU/LLM-eval-survey)
-
-  Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi, Cunxiang Wang, **Yidong Wang**, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, Xing Xie.
 
 - (5) PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization. [\[paper\]](https://arxiv.org/abs/2306.05087); [![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Code+Stars)](https://github.com/WeOpenML/PandaLM)
   
@@ -64,6 +60,12 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   Hao Chen, Yue Fan, **Yidong Wang**, Jindong Wang, Bernt Schiele, Xing Xie, Marios Savvides, Bhiksha Raj. 
 
 # 📝 Publications
+- (16) A Survey on Evaluation of Large Language Models. [\[paper\]](https://arxiv.org/abs/2307.03109); [![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Code+Stars)](https://github.com/MLGroupJLU/LLM-eval-survey)
+
+  Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi, Cunxiang Wang, **Yidong Wang**, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, Xing Xie.
+
+  Transactions on Intelligent Systems and Technology (**TIST 2023**)
+  
 - (15) Out-of-Distribution Generalization in Text Classification: Past, Present, and Future. [\[paper\]](https://arxiv.org/abs/2305.14104).
   
   Linyi Yang, Yaoxiao Song, Xuan Ren, Chenyang Lyu, **Yidong Wang**, Lingqiao Liu, Jindong Wang, Jennifer Foster, Yue Zhang.
