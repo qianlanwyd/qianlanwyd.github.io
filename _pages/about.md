@@ -21,9 +21,10 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
 
 # 🔥 News
-- *2022.10*: &nbsp;🎉🎉 I finished my internship at MSRA. 
-- *2022.09*: &nbsp;🎉🎉 Our paper USB: A Unified Semi-supervised Learning Benchmark for Classification has been accepted by NeurIPS 2022 Datasets and Benchmarks Track. 
-
+- *2023.09*: &nbsp;🎉🎉 I became a Ph.D. Student at Peking University.
+- *2023.08*: &nbsp;🎉🎉 I finished my internship at Westlake University.
+- *2022.10*: &nbsp;🎉🎉 I finished my internship at MSRA.
+  
 # 📖 Educations
 - *2023.09 - 2027.06*, doctoral student at National Engineering Research Center for Software Engineering, Peking University, advised by Prof. Shikun Zhang and Prof. Wei Ye.
 - *2020.09 - 2022.10*, master student in the Department of Information and Communications Engineering of Tokyo Institute of Technology, advised by Prof. Takahiro Shinozaki.
@@ -64,7 +65,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
   Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi, Cunxiang Wang, **Yidong Wang**, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, Xing Xie.
 
-  Transactions on Intelligent Systems and Technology (**TIST 2023**)
+  Transactions on Intelligent Systems and Technology (**TIST 2023**).
   
 - (15) Out-of-Distribution Generalization in Text Classification: Past, Present, and Future. [\[paper\]](https://arxiv.org/abs/2305.14104).
   
