@@ -19,7 +19,7 @@ main:
     url: "/#-publications"
 
   - title: "Projects"
-    url: "/#-projects"
+    url: "/#-selected-projects"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
