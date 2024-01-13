@@ -67,7 +67,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
   Transactions on Intelligent Systems and Technology (**TIST 2023**).
   
-- (15) Out-of-Distribution Generalization in Text Classification: Past, Present, and Future. [\[paper\]](https://arxiv.org/abs/2305.14104).
+- (15) Out-of-Distribution Generalization in Natural Language Processing: Past, Present, and Future. [\[paper\]](https://arxiv.org/abs/2305.14104).
   
   Linyi Yang, Yaoxiao Song, Xuan Ren, Chenyang Lyu, **Yidong Wang**, Lingqiao Liu, Jindong Wang, Jennifer Foster, Yue Zhang.
 
