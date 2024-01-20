@@ -75,29 +75,29 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
   Transactions on Intelligent Systems and Technology (**TIST 2024**).
   
-- (15) Out-of-Distribution Generalization in Natural Language Processing: Past, Present, and Future. [\[paper\]](https://arxiv.org/abs/2305.14104).
+- (15) Towards Optimization and Model Selection for Domain Generalization: A Mixup-guided Solution. [\[paper\]](https://arxiv.org/abs/2209.00652). 
+
+  Wang Lu, Jindong Wang, **Yidong Wang**, Kan Ren, Yiqiang Chen, Xing Xie.
+
+  SIAM Conference on Data Mining 2024 (**SDM 2024**).
+  
+- (14) Out-of-Distribution Generalization in Natural Language Processing: Past, Present, and Future. [\[paper\]](https://arxiv.org/abs/2305.14104).
   
   Linyi Yang, Yaoxiao Song, Xuan Ren, Chenyang Lyu, **Yidong Wang**, Lingqiao Liu, Jindong Wang, Jennifer Foster, Yue Zhang.
 
   The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**).
   
-- (14) Evaluating open question answering evaluation. [\[paper\]](https://arxiv.org/abs/2305.12421); [![](https://img.shields.io/github/stars/wangcunxiang/QA-Eval?style=social&label=Code+Stars)](https://github.com/wangcunxiang/QA-Eval)
+- (13) Evaluating open question answering evaluation. [\[paper\]](https://arxiv.org/abs/2305.12421); [![](https://img.shields.io/github/stars/wangcunxiang/QA-Eval?style=social&label=Code+Stars)](https://github.com/wangcunxiang/QA-Eval)
   
   Cunxiang Wang, Sirui Cheng, Zhikun Xu, Bowen Ding, **Yidong Wang**, Yue Zhang.
 
    Advances in Neural Information Processing Systems 2023 (**NeurIPS 2023**).
 
-- (13) Non-IID always Bad? Semi-Supervised Heterogeneous Federated Learning with Local Knowledge Enhancement.  [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614991); [![](https://img.shields.io/github/stars/zcfinal/FedLoKe?style=social&label=Code+Stars)](https://github.com/zcfinal/FedLoKe)
+- (12) Non-IID always Bad? Semi-Supervised Heterogeneous Federated Learning with Local Knowledge Enhancement.  [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614991); [![](https://img.shields.io/github/stars/zcfinal/FedLoKe?style=social&label=Code+Stars)](https://github.com/zcfinal/FedLoKe)
   
   Chao Zhang, Fangzhao Wu, Jingwei Yi, Derong Xu, Yang Yu, Jingdong Wang, **Yidong Wang**, Tong Xu, Xing Xie, Enhong Chen.
 
   The Conference on Information and Knowledge Management 2023 (**CIKM 2023**).
-
-- (12) Towards Optimization and Model Selection for Domain Generalization: A Mixup-guided Solution. [\[paper\]](https://arxiv.org/abs/2209.00652). 
-
-  Wang Lu, Jindong Wang, **Yidong Wang**, Kan Ren, Yiqiang Chen, Xing Xie.
-
-  KDD 2023 workshop on Causal Discovery, Prediction and Decision (**CDPD 2023**).
 
 - (11) Exploring Vision-Language Models for Imbalanced Learning. [\[paper\]](https://arxiv.org/abs/2304.01457); [![](https://img.shields.io/github/stars/Imbalance-VLM/Imbalance-VLM?style=social&label=Code+Stars)](https://github.com/Imbalance-VLM/Imbalance-VLM)
 
