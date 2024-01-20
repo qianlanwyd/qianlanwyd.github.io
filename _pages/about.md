@@ -73,7 +73,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
   Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi, Cunxiang Wang, **Yidong Wang**, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, Xing Xie.
 
-  Transactions on Intelligent Systems and Technology (**TIST 2023**).
+  Transactions on Intelligent Systems and Technology (**TIST 2024**).
   
 - (15) Out-of-Distribution Generalization in Natural Language Processing: Past, Present, and Future. [\[paper\]](https://arxiv.org/abs/2305.14104).
   
