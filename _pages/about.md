@@ -229,3 +229,8 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
 # 🏫 Teaching Experience
 - 2024 Spring Teaching Assistant, Natural Language Processing(自然语言处理) by Prof. Di He, Peking University.
+
+# 🎤 Invited Talks
+- 2023, The AI Talks, <a href='https://theaitalks.org/authors/yidong-wang/'>Advancing Semi-Supervised Learning: Methods and Benchmarks </a>.
+- 2023, East China Normal University, Introduction to Semi-supervised Learning.
+- 2024, Nanjing University, Addressing Low-Resource Challenges in Machine Learning: Strategies from the Early Algorithm Era to the Age of Large Models.
