@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie in language modeling, semi-supervised learning, transfer learning, and imbalanced learning. I have published several papers at the top international AI Conferences / Journals with total <a href='https://scholar.google.com/citations?user=YomxTXQAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie in language modeling, semi-supervised learning, transfer learning, and imbalanced learning. I have published several papers at the top international AI Conferences / Journals with total <a href='https://scholar.google.com/citations?user=YomxTXQAAAAJ'>< img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=google citations">)
 
 
 # 🔥 News
