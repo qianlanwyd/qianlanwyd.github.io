@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie in semi-supervised learning, transfer learning, and imbalanced learning. I have published 10+ papers at the top international AI Conferences / Journals with total <a href='https://scholar.google.com/citations?user=YomxTXQAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>1000+</span></strong></a>.
+Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie in language modeling, semi-supervised learning, transfer learning, and imbalanced learning. I have published several papers at the top international AI Conferences / Journals with total <a href='https://scholar.google.com/citations?user=YomxTXQAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>1000+</span></strong></a>. <a href='https://scholar.google.com/citations?user=YomxTXQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
 
 
 # 🔥 News
@@ -231,6 +231,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 - 2024 Spring Teaching Assistant, Natural Language Processing(自然语言处理) by Prof. Di He, Peking University.
 
 # 🎤 Invited Talks
+- 2023, Microsoft Research Asia, <a href='https://www.msra.cn/zh-cn/news/outreach-articles/%e5%ae%9e%e4%b9%a0%e6%b4%be%ef%bd%9c%e7%8e%8b%e4%b8%80%e6%a0%8b%ef%bc%9a%e4%b8%bb%e5%8a%a8%e5%b0%b1%e4%bc%9a%e6%9c%89%e6%95%85%e4%ba%8b%ef%bc%81%e9%ab%98%e6%95%88%e7%a7%91%e7%a0%94%e7%a7%98%e8%af%80'>Sharing Internship Experience</a>.
 - 2023, The AI Talks, <a href='https://theaitalks.org/authors/yidong-wang/'>Advancing Semi-Supervised Learning: Methods and Benchmarks </a>.
 - 2023, East China Normal University, Introduction to Semi-supervised Learning.
 - 2024, Nanjing University, Addressing Low-Resource Challenges in Machine Learning: Strategies from the Early Algorithm Era to the Age of Large Models.
