@@ -213,7 +213,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   
   Wenxin Hou, **Yidong Wang**, Shengzhou Gao, Takahiro Shinozaki. 
   
-  IEEE International Conference on Acoustics, Speech, and Signal Processing 2021 (``<font color=Blue>ICASSP 2021</font>``).
+  IEEE International Conference on Acoustics, Speech, and Signal Processing 2021 (<font color=Blue>``ICASSP 2021``</font>).
 
 # 💻 Selected Projects
 - PandaLM [![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Code+Stars)](https://github.com/WeOpenML/PandaLM) refers to ReProducible and Automated Language Model Assessment. PandaLM aims to provide reproducible and automated comparisons between different large language models (LLMs). By giving PandaLM the same context, it can compare the responses of different LLMs and provide a reason for the decision, along with a reference answer. I am the main contributor to this repo and now leading the PandaLM team.
