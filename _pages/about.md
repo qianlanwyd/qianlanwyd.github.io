@@ -80,28 +80,34 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   Advances in Neural Information Processing Systems 2021 (<font color=Blue>``NeurIPS 2021``</font>).
 
 # 📝 Preprints
-- (5) Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity. [\[paper\]](https://arxiv.org/abs/2310.07521); [![](https://img.shields.io/github/stars/wangcunxiang/LLM-Factuality-Survey?style=social&label=Code+Stars)](https://github.com/wangcunxiang/LLM-Factuality-Survey)
+- (3) Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity. [\[paper\]](https://arxiv.org/abs/2310.07521); [![](https://img.shields.io/github/stars/wangcunxiang/LLM-Factuality-Survey?style=social&label=Code+Stars)](https://github.com/wangcunxiang/LLM-Factuality-Survey)
 
   Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi, **Yidong Wang**, Linyi Yang, Jindong Wang, Xing Xie, Zheng Zhang and Yue Zhang.
   
-- (4) Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations. [\[paper\]](https://arxiv.org/abs/2305.12715).
+- (2) Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations. [\[paper\]](https://arxiv.org/abs/2305.12715).
   
   Hao Chen, Ankit Shah, Jindong Wang, Ran Tao, **Yidong Wang**, Xing Xie, Masashi Sugiyama, Rita Singh, Bhiksha Raj.
 
-- (3) PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts. [\[paper\]](https://arxiv.org/abs/2306.04528); [![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Code+Stars)](https://github.com/microsoft/promptbench)
+- (1) PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts. [\[paper\]](https://arxiv.org/abs/2306.04528); [![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Code+Stars)](https://github.com/microsoft/promptbench)
   
   Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, **Yidong Wang**, Linyi Yang, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie.
 
-- (2) Conv-Adapter: Exploring Parameter Efficient Transfer Learning for ConvNets. [\[paper\]](https://arxiv.org/abs/2208.07463). 
-  
-  Hao Chen, Ran Tao, Han Zhang, **Yidong Wang**, Wei Ye, Jindong Wang, Guosheng Hu, Marios Savvides.
 
-- (1) An Embarrassingly Simple Baseline for Imbalanced Semi-Supervised Learning. [\[paper\]](https://arxiv.org/abs/2211.11086). 
-  
-  Hao Chen, Yue Fan, **Yidong Wang**, Jindong Wang, Bernt Schiele, Xing Xie, Marios Savvides, Bhiksha Raj. 
 
 # 📝 Publications
-- (19) CoderUJB: An Executable and Unified Java Benchmark for Practical Programming Scenarios.
+- (21) A General Framework for Learning from Weak Supervision. [\[paper\]](https://arxiv.org/abs/2402.01922).[![](https://img.shields.io/github/stars/Hhhhhhao/General-Framework-Weak-Supervision?style=social&label=Code+Stars)](https://github.com/Hhhhhhao/General-Framework-Weak-Supervision)
+
+  Hao Chen, Jindong Wang, Lei Feng, Xiang Li, **Yidong Wang**, Xing Xie, Masashi Sugiyama, Rita Singh, Bhiksha Raj
+
+  The Forty-first International Conference on Machine Learning (<font color=Blue>``ICML 2024``</font>).
+  
+- (20) Conv-Adapter: Exploring Parameter Efficient Transfer Learning for ConvNets. [\[paper\]](https://arxiv.org/abs/2208.07463).[![](https://img.shields.io/github/stars/Hhhhhhao/Conv-Adapter?style=social&label=Code+Stars)](https://github.com/Hhhhhhao/Conv-Adapter)
+
+  Hao Chen, Ran Tao, Han Zhang, **Yidong Wang**, Wei Ye, Jindong Wang, Guosheng Hu, Marios Savvides.
+
+  Conference on Computer Vision and Pattern Recognition 2024 Workshop Prompting in Vision (<font color=Blue>``CVPR 2024 Workshop``</font>).
+  
+- (19) CoderUJB: An Executable and Unified Java Benchmark for Practical Programming Scenarios. [\[paper\]](https://arxiv.org/abs/2403.19287); [![](https://img.shields.io/github/stars/WisdomShell/ujb?style=social&label=Code+Stars)](https://github.com/WisdomShell/ujb)
 
   Zhengran Zeng, **Yidong Wang**, Rui Xie, Wei Ye, Shikun Zhang.
 
