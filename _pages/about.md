@@ -79,7 +79,27 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   
   Advances in Neural Information Processing Systems 2021 (<font color=Blue>``NeurIPS 2021``</font>).
 
-# 📝 Preprints
+# 📝 Preprints https://github.com/AutoSurveys/AutoSurvey
+- (8) AutoSurvey: Large Language Models Can Automatically Write Surveys. [\[paper\]](https://arxiv.org/pdf/2406.10252); [![](https://img.shields.io/github/stars/AutoSurveys/AutoSurvey?style=social&label=Code+Stars)](https://github.com/AutoSurveys/AutoSurvey)
+
+  **Yidong Wang**, Qi Guo, Wenjin Yao, Hongbo Zhang, Xin Zhang, Zhen Wu, Meishan Zhang, Xinyu Dai, Min Zhang, Qingsong Wen, Wei Ye, Shikun Zhang, Yue Zhang.
+
+- (7) FreeEval: A Modular Framework for Trustworthy and Efficient Evaluation of Large Language Models. [\[paper\]](https://arxiv.org/pdf/2404.06003); [![](https://img.shields.io/github/stars/WisdomShell/FreeEval?style=social&label=Code+Stars)](https://github.com/WisdomShell/FreeEval)
+
+  Zhuohao Yu, Chang Gao, Wenjin Yao, **Yidong Wang**, Zhengran Zeng, Wei Ye, Jindong Wang, Yue Zhang, Shikun Zhang.
+  
+- (6) Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application. [\[paper\]](https://arxiv.org/pdf/2407.01885).
+
+  Chuanpeng Yang, Wang Lu, Yao Zhu, **Yidong Wang**, Qian Chen, Chenlong Gao, Bingjie Yan, Yiqiang Chen.
+
+- (5) RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation. [\[paper\]](https://arxiv.org/pdf/2408.11381); [![](https://img.shields.io/github/stars/fate-ubw/RAGLAB?style=social&label=Code+Stars)](https://github.com/fate-ubw/RAGLAB)
+
+  Xuanwang Zhang, Yunze Song, **Yidong Wang**, Shuyun Tang, Xinfeng Li, Zhengran Zeng, Zhen Wu, Wei Ye, Wenyuan Xu, Yue Zhang, Xinyu Dai, Shikun Zhang, Qingsong Wen.
+
+- (4) A Survey on Evaluating Large Language Models in Code Generation Tasks. [\[paper\]](https://arxiv.org/pdf/2408.16498).
+  
+  Liguo Chen, Qi Guo, Hongrui Jia, Zhengran Zeng, Xin Wang, Yijiang Xu, Jian Wu, **Yidong Wang**, Qing Gao, Jindong Wang, Wei Ye, Shikun Zhang.
+
 - (3) Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity. [\[paper\]](https://arxiv.org/abs/2310.07521); [![](https://img.shields.io/github/stars/wangcunxiang/LLM-Factuality-Survey?style=social&label=Code+Stars)](https://github.com/wangcunxiang/LLM-Factuality-Survey)
 
   Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi, **Yidong Wang**, Linyi Yang, Jindong Wang, Xing Xie, Zheng Zhang and Yue Zhang.
@@ -95,21 +115,27 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
 
 # 📝 Publications
+- (25) PIXEL: Prompt-based Zero-shot Hashing via Visual and Textual Semantic Alignment
+
+   Zeyu Dong, Qingqing Long, Yihang Zhou, Zhihong Zhu, **Yidong Wang**, Xiao Luo, Pengyang Wang, Pengfei Wang, Yuanchun Zhou.
+
+   The 33rd ACM International Conference on Information and Knowledge Management (<font color=Blue>``CIKM 2024``</font>).
+
 - (24) Enhancing In-Context Learning via Implicit Demonstration Augmentation.
 
-	 Xiaoling Zhou, Wei Ye, **Yidong Wang**, Chaoya Jiang, Zhemg Lee, Rui Xie, Shikun Zhang.
+   Xiaoling Zhou, Wei Ye, **Yidong Wang**, Chaoya Jiang, Zhemg Lee, Rui Xie, Shikun Zhang.
 
    Annual Meeting of the Association for Computational Linguistics 2024 (<font color=Blue>``ACL 2024``</font>).
 
 - (23) KIEval: A Knowledge-grounded Interactive Evaluation Framework for Large Language Models.
 
-	 Zhuohao Yu, Chang Gao, Wenjin Yao, **Yidong Wang**, Wei Ye, Jindong Wang, Xing Xie, Yue Zhang, Shikun Zhang.
+   Zhuohao Yu, Chang Gao, Wenjin Yao, **Yidong Wang**, Wei Ye, Jindong Wang, Xing Xie, Yue Zhang, Shikun Zhang.
 
    Annual Meeting of the Association for Computational Linguistics 2024 (<font color=Blue>``ACL 2024``</font>).
 
 - (22) What Makes a Good Order of Examples in In-Context Learning.
 
-	 Qi Guo, Leiyu Wang, **Yidong Wang**, Wei Ye, Shikun Zhang.
+   Qi Guo, Leiyu Wang, **Yidong Wang**, Wei Ye, Shikun Zhang.
 
    Findings of Annual Meeting of the Association for Computational Linguistics 2024 (<font color=Blue>``ACL 2024 Findings``</font>).
  
