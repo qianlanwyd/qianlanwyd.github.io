@@ -284,7 +284,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 - Renmin Scholarship, Nanjing University, 2017&2018.
 
 # 📄 Academic Services
-- Reviewer for Conferences: NeurIPS 2022, CVPR 2023, ICML 2023, ICCV 2023, NeurIPS 2023, AAAI 2024, ICLR 2024, CVPR 2024, ICML 2024, ECCV 2024, NAACL 2024, ACL 2024, COLM 2024.
+- Reviewer for Conferences: NeurIPS 2022, CVPR 2023, ICML 2023, ICCV 2023, NeurIPS 2023, AAAI 2024, ICLR 2024, CVPR 2024, ICML 2024, ECCV 2024, NAACL 2024, ACL 2024, COLM 2024, NeurIPS 2024, ICLR 2025.
 - Reviewer for Journals: IJCV, TIP, ACM TIST, JCST.
 
 # 🏫 Teaching Experience
