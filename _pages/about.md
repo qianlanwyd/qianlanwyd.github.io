@@ -41,7 +41,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
   **Yidong Wang**, Qi Guo, Wenjin Yao, Hongbo Zhang, Xin Zhang, Zhen Wu, Meishan Zhang, Xinyu Dai, Min Zhang, Qingsong Wen, Wei Ye, Shikun Zhang, Yue Zhang.
 
-Advances in Neural Information Processing Systems 2024 (<font color=Blue>``NeurIPS 2024``</font>).
+  Advances in Neural Information Processing Systems 2024 (<font color=Blue>``NeurIPS 2024``</font>).
 
 - (7) PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization. [\[paper\]](https://arxiv.org/abs/2306.05087); [![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Code+Stars)](https://github.com/WeOpenML/PandaLM)
   
