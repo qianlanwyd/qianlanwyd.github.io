@@ -92,30 +92,26 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   Advances in Neural Information Processing Systems 2021 (<font color=Blue>``NeurIPS 2021``</font>).
 
 # 📝 Preprints 
-- (7) FreeEval: A Modular Framework for Trustworthy and Efficient Evaluation of Large Language Models. [\[paper\]](https://arxiv.org/pdf/2404.06003); [![](https://img.shields.io/github/stars/WisdomShell/FreeEval?style=social&label=Code+Stars)](https://github.com/WisdomShell/FreeEval)
+- (6) FreeEval: A Modular Framework for Trustworthy and Efficient Evaluation of Large Language Models. [\[paper\]](https://arxiv.org/pdf/2404.06003); [![](https://img.shields.io/github/stars/WisdomShell/FreeEval?style=social&label=Code+Stars)](https://github.com/WisdomShell/FreeEval)
 
   Zhuohao Yu, Chang Gao, Wenjin Yao, **Yidong Wang**, Zhengran Zeng, Wei Ye, Jindong Wang, Yue Zhang, Shikun Zhang.
   
-- (6) Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application. [\[paper\]](https://arxiv.org/pdf/2407.01885).
+- (5) Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application. [\[paper\]](https://arxiv.org/pdf/2407.01885).
 
   Chuanpeng Yang, Wang Lu, Yao Zhu, **Yidong Wang**, Qian Chen, Chenlong Gao, Bingjie Yan, Yiqiang Chen.
 
-- (5) RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation. [\[paper\]](https://arxiv.org/pdf/2408.11381); [![](https://img.shields.io/github/stars/fate-ubw/RAGLAB?style=social&label=Code+Stars)](https://github.com/fate-ubw/RAGLAB)
+- (4) RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation. [\[paper\]](https://arxiv.org/pdf/2408.11381); [![](https://img.shields.io/github/stars/fate-ubw/RAGLAB?style=social&label=Code+Stars)](https://github.com/fate-ubw/RAGLAB)
 
   Xuanwang Zhang, Yunze Song, **Yidong Wang**, Shuyun Tang, Xinfeng Li, Zhengran Zeng, Zhen Wu, Wei Ye, Wenyuan Xu, Yue Zhang, Xinyu Dai, Shikun Zhang, Qingsong Wen.
 
-- (4) A Survey on Evaluating Large Language Models in Code Generation Tasks. [\[paper\]](https://arxiv.org/pdf/2408.16498).
+- (3) A Survey on Evaluating Large Language Models in Code Generation Tasks. [\[paper\]](https://arxiv.org/pdf/2408.16498).
   
   Liguo Chen, Qi Guo, Hongrui Jia, Zhengran Zeng, Xin Wang, Yijiang Xu, Jian Wu, **Yidong Wang**, Qing Gao, Jindong Wang, Wei Ye, Shikun Zhang.
 
-- (3) Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity. [\[paper\]](https://arxiv.org/abs/2310.07521); [![](https://img.shields.io/github/stars/wangcunxiang/LLM-Factuality-Survey?style=social&label=Code+Stars)](https://github.com/wangcunxiang/LLM-Factuality-Survey)
+- (2) Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity. [\[paper\]](https://arxiv.org/abs/2310.07521); [![](https://img.shields.io/github/stars/wangcunxiang/LLM-Factuality-Survey?style=social&label=Code+Stars)](https://github.com/wangcunxiang/LLM-Factuality-Survey)
 
   Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi, **Yidong Wang**, Linyi Yang, Jindong Wang, Xing Xie, Zheng Zhang and Yue Zhang.
   
-- (2) Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations. [\[paper\]](https://arxiv.org/abs/2305.12715).
-  
-  Hao Chen, Ankit Shah, Jindong Wang, Ran Tao, **Yidong Wang**, Xing Xie, Masashi Sugiyama, Rita Singh, Bhiksha Raj.
-
 - (1) PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts. [\[paper\]](https://arxiv.org/abs/2306.04528); [![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Code+Stars)](https://github.com/microsoft/promptbench)
   
   Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, **Yidong Wang**, Linyi Yang, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie.
@@ -123,6 +119,24 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
 
 # 📝 Publications
+- (28) Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations. [\[paper\]](https://arxiv.org/abs/2305.12715).
+  
+  Hao Chen, Ankit Shah, Jindong Wang, Ran Tao, **Yidong Wang**, Xing Xie, Masashi Sugiyama, Rita Singh, Bhiksha Raj.
+
+  Advances in Neural Information Processing Systems 2024 (<font color=Blue>``NeurIPS 2024``</font>).
+  
+- (27) AutoSurvey: Large Language Models Can Automatically Write Surveys. [\[paper\]](https://arxiv.org/pdf/2406.10252); [![](https://img.shields.io/github/stars/AutoSurveys/AutoSurvey?style=social&label=Code+Stars)](https://github.com/AutoSurveys/AutoSurvey)
+
+  **Yidong Wang**, Qi Guo, Wenjin Yao, Hongbo Zhang, Xin Zhang, Zhen Wu, Meishan Zhang, Xinyu Dai, Min Zhang, Qingsong Wen, Wei Ye, Shikun Zhang, Yue Zhang.
+
+  Advances in Neural Information Processing Systems 2024 (<font color=Blue>``NeurIPS 2024``</font>).
+
+- (26) How do Large Language Models understand Genes and Cells. [\[paper\]](https://www.biorxiv.org/content/biorxiv/early/2024/03/27/2024.03.23.586383.full.pdf); [![](https://img.shields.io/github/stars/epang-ucas/Evaluate_LLMs_to_Genes?style=social&label=Code+Stars)](https://github.com/epang-ucas/Evaluate_LLMs_to_Genes)
+
+  Chen Fang, **Yidong Wang (co-first author)**, Yunze Song, Qingqing Long, Wang Lu, Linghui Chen, Pengfei Wang, Guihai Feng, Yuanchun Zhou, Xin Li.
+
+  Transactions on Intelligent Systems and Technology (<font color=Blue>``TIST 2024``</font>).
+  
 - (25) PIXEL: Prompt-based Zero-shot Hashing via Visual and Textual Semantic Alignment.
 
    Zeyu Dong, Qingqing Long, Yihang Zhou, Zhihong Zhu, **Yidong Wang**, Xiao Luo, Pengyang Wang, Pengfei Wang, Yuanchun Zhou.
