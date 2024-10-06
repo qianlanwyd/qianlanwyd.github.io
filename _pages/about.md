@@ -91,18 +91,10 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   
   Advances in Neural Information Processing Systems 2021 (<font color=Blue>``NeurIPS 2021``</font>).
 
-# 📝 Preprints 
-- (6) FreeEval: A Modular Framework for Trustworthy and Efficient Evaluation of Large Language Models. [\[paper\]](https://arxiv.org/pdf/2404.06003); [![](https://img.shields.io/github/stars/WisdomShell/FreeEval?style=social&label=Code+Stars)](https://github.com/WisdomShell/FreeEval)
-
-  Zhuohao Yu, Chang Gao, Wenjin Yao, **Yidong Wang**, Zhengran Zeng, Wei Ye, Jindong Wang, Yue Zhang, Shikun Zhang.
-  
-- (5) Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application. [\[paper\]](https://arxiv.org/pdf/2407.01885).
+# 📝 Preprints   
+- (4) Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application. [\[paper\]](https://arxiv.org/pdf/2407.01885).
 
   Chuanpeng Yang, Wang Lu, Yao Zhu, **Yidong Wang**, Qian Chen, Chenlong Gao, Bingjie Yan, Yiqiang Chen.
-
-- (4) RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation. [\[paper\]](https://arxiv.org/pdf/2408.11381); [![](https://img.shields.io/github/stars/fate-ubw/RAGLAB?style=social&label=Code+Stars)](https://github.com/fate-ubw/RAGLAB)
-
-  Xuanwang Zhang, Yunze Song, **Yidong Wang**, Shuyun Tang, Xinfeng Li, Zhengran Zeng, Zhen Wu, Wei Ye, Wenyuan Xu, Yue Zhang, Xinyu Dai, Shikun Zhang, Qingsong Wen.
 
 - (3) A Survey on Evaluating Large Language Models in Code Generation Tasks. [\[paper\]](https://arxiv.org/pdf/2408.16498).
   
@@ -119,6 +111,24 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
 
 # 📝 Publications
+- (31) RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation. [\[paper\]](https://arxiv.org/pdf/2408.11381); [![](https://img.shields.io/github/stars/fate-ubw/RAGLAB?style=social&label=Code+Stars)](https://github.com/fate-ubw/RAGLAB)
+
+  Xuanwang Zhang, Yunze Song, **Yidong Wang**, Shuyun Tang, Xinfeng Li, Zhengran Zeng, Zhen Wu, Wei Ye, Wenyuan Xu, Yue Zhang, Xinyu Dai, Shikun Zhang, Qingsong Wen.
+  
+  The 2024 Conference on Empirical Methods in Natural Language Processing System Demonstration Track (<font color=Blue>``EMNLP 2024 Demo Track``</font>).
+  
+- (30) FreeEval: A Modular Framework for Trustworthy and Efficient Evaluation of Large Language Models. [\[paper\]](https://arxiv.org/pdf/2404.06003); [![](https://img.shields.io/github/stars/WisdomShell/FreeEval?style=social&label=Code+Stars)](https://github.com/WisdomShell/FreeEval)
+
+  Zhuohao Yu, Chang Gao, Wenjin Yao, **Yidong Wang**, Zhengran Zeng, Wei Ye, Jindong Wang, Yue Zhang, Shikun Zhang.
+
+  The 2024 Conference on Empirical Methods in Natural Language Processing System Demonstration Track (<font color=Blue>``EMNLP 2024 Demo Track``</font>).
+  
+- (29) PURE: Aligning LLM via Pluggable Query Reformulation for Enhanced Helpfulness. 
+  
+  Wenjin Yao, Yidong Wang, Zhuohao Yu, Rui Xie, Shikun Zhang, Wei Ye.
+
+  Findings of The 2024 Conference on Empirical Methods in Natural Language Processing (<font color=Blue>``EMNLP 2024 Findings``</font>).
+
 - (28) Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations. [\[paper\]](https://arxiv.org/abs/2305.12715).
   
   Hao Chen, Ankit Shah, Jindong Wang, Ran Tao, **Yidong Wang**, Xing Xie, Masashi Sugiyama, Rita Singh, Bhiksha Raj.
