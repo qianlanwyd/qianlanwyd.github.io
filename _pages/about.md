@@ -153,19 +153,19 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
    The 33rd ACM International Conference on Information and Knowledge Management (<font color=Blue>``CIKM 2024``</font>).
 
-- (24) Enhancing In-Context Learning via Implicit Demonstration Augmentation.
+- (24) Enhancing In-Context Learning via Implicit Demonstration Augmentation. [\[paper\]](https://arxiv.org/abs/2407.00100). 
 
    Xiaoling Zhou, Wei Ye, **Yidong Wang**, Chaoya Jiang, Zhemg Lee, Rui Xie, Shikun Zhang.
 
    Annual Meeting of the Association for Computational Linguistics 2024 (<font color=Blue>``ACL 2024``</font>).
 
-- (23) KIEval: A Knowledge-grounded Interactive Evaluation Framework for Large Language Models.
-
+- (23) KIEval: A Knowledge-grounded Interactive Evaluation Framework for Large Language Models. [\[paper\]](https://arxiv.org/abs/2402.15043).
+  
    Zhuohao Yu, Chang Gao, Wenjin Yao, **Yidong Wang**, Wei Ye, Jindong Wang, Xing Xie, Yue Zhang, Shikun Zhang.
 
    Annual Meeting of the Association for Computational Linguistics 2024 (<font color=Blue>``ACL 2024``</font>).
 
-- (22) What Makes a Good Order of Examples in In-Context Learning.
+- (22) What Makes a Good Order of Examples in In-Context Learning. [\[paper\]](https://aclanthology.org/2024.findings-acl.884.pdf). 
 
    Qi Guo, Leiyu Wang, **Yidong Wang**, Wei Ye, Shikun Zhang.
 
