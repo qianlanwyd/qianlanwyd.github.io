@@ -92,10 +92,6 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   Advances in Neural Information Processing Systems 2021 (<font color=Blue>``NeurIPS 2021``</font>).
 
 # 📝 Preprints   
-- (4) Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application. [\[paper\]](https://arxiv.org/pdf/2407.01885).
-
-  Chuanpeng Yang, Wang Lu, Yao Zhu, **Yidong Wang**, Qian Chen, Chenlong Gao, Bingjie Yan, Yiqiang Chen.
-
 - (3) A Survey on Evaluating Large Language Models in Code Generation Tasks. [\[paper\]](https://arxiv.org/pdf/2408.16498).
   
   Liguo Chen, Qi Guo, Hongrui Jia, Zhengran Zeng, Xin Wang, Yijiang Xu, Jian Wu, **Yidong Wang**, Qing Gao, Jindong Wang, Wei Ye, Shikun Zhang.
@@ -111,6 +107,12 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
 
 # 📝 Publications
+- (32) Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application. [\[paper\]](https://arxiv.org/pdf/2407.01885).
+
+  Chuanpeng Yang, Wang Lu, Yao Zhu, **Yidong Wang**, Qian Chen, Chenlong Gao, Bingjie Yan, Yiqiang Chen.
+
+  Transactions on Intelligent Systems and Technology (<font color=Blue>``TIST 2024``</font>).
+  
 - (31) RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation. [\[paper\]](https://arxiv.org/pdf/2408.11381); [![](https://img.shields.io/github/stars/fate-ubw/RAGLAB?style=social&label=Code+Stars)](https://github.com/fate-ubw/RAGLAB)
 
   Xuanwang Zhang, Yunze Song, **Yidong Wang**, Shuyun Tang, Xinfeng Li, Zhengran Zeng, Zhen Wu, Wei Ye, Wenyuan Xu, Yue Zhang, Xinyu Dai, Shikun Zhang, Qingsong Wen.
