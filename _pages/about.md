@@ -54,6 +54,9 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   **Yidong Wang**, Zhuohao Yu, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang.
   
   International Conference on Learning Representations 2024 (<font color=Blue>``ICLR 2024``</font>).
+
+  <font color=Red>``It ranked 68 out of 2036 papers in terms of citations at ICLR 2024 (Top 3%).``</font>[\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/iclr_2024_main_conference_citations_top_30%25.json)
+
   
 - (6) Exploring Vision-Language Models for Imbalanced Learning. [\[paper\]](https://arxiv.org/abs/2304.01457); [![](https://img.shields.io/github/stars/Imbalance-VLM/Imbalance-VLM?style=social&label=Code+Stars)](https://github.com/Imbalance-VLM/Imbalance-VLM)
 
@@ -67,11 +70,15 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   
   International Conference on Learning Representations 2023 (<font color=Blue>``ICLR 2023``</font>).
 
+  <font color=Red>``It ranked 47 out of 1504 papers in terms of citations at ICLR 2023 (Top 3%).``</font>[\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/iclr_2023_main_conference_citations_top_30%25.json)
+
 - (4) USB: A Unified Semi-supervised Learning Benchmark for Classification. [\[paper\]](https://arxiv.org/abs/2208.07204); [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning) 
   
   **Yidong Wang**, Hao Chen, Yue Fan, Wang Sun, Ran Tao, Wenxin Hou, Renjie Wang, Linyi Yang, Zhi Zhou, Lan-Zhe Guo, Heli Qi, Zhen Wu, Yu-Feng Li, Satoshi Nakamura, Wei Ye, Marios Savvides, Bhiksha Raj, Takahiro Shinozaki, Bernt Schiele, Jindong Wang, Xing Xie, Yue Zhang. 
   
-  Advances in Neural Information Processing Systems 2022 (<font color=Blue>``NeurIPS 2022``</font>).
+  Advances in Neural Information Processing Systems 2022 (<font color=Blue>``NeurIPS 2022 D&B Track``</font>).
+
+  <font color=Red>``It ranked 13 out of 127 papers in terms of citations at NeurIPS 2022 D&B Track (Top 10%).``</font>[\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/nips2022_datasets_and_benchmarks_citations_top_30%25.json)
 
 - (3) Margin Calibration for Long-Tailed Visual Recognition. [\[paper\]](https://arxiv.org/abs/2112.07225); [![](https://img.shields.io/github/stars/microsoft/robustlearn?style=social&label=Code+Stars)](https://github.com/microsoft/robustlearn/tree/main/marc)
   
@@ -90,6 +97,9 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   Bowen Zhang, **Yidong Wang (co-first author)**, Wenxin Hou, Hao Wu, Jindong Wang, Manabu Okumura, Takahiro Shinozaki. 
   
   Advances in Neural Information Processing Systems 2021 (<font color=Blue>``NeurIPS 2021``</font>).
+  
+  <font color=Red>``It ranked 16 out of 2,243 papers in terms of citations at NeurIPS 2021 (Top 1%).``</font> [\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/nips2021_citations_top_30%25.json)
+
 
 # 📝 Preprints   
 - (3) A Survey on Evaluating Large Language Models in Code Generation Tasks. [\[paper\]](https://arxiv.org/pdf/2408.16498).
