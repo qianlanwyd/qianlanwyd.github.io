@@ -55,7 +55,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   
   International Conference on Learning Representations 2024 (<font color=Blue>``ICLR 2024``</font>).
 
-  <font color=Red>``It ranked 68 out of 2036 papers in terms of citations at ICLR 2024 (Top 3%).``</font>[\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/iclr_2024_main_conference_citations_top_30%25.json)
+  <font color=Red>``It ranked 66 out of 2036 papers in terms of citations at ICLR 2024 (Top 3%).``</font>[\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/iclr_2024_main_conference_citations_top_30%25.json)
 
   
 - (6) Exploring Vision-Language Models for Imbalanced Learning. [\[paper\]](https://arxiv.org/abs/2304.01457); [![](https://img.shields.io/github/stars/Imbalance-VLM/Imbalance-VLM?style=social&label=Code+Stars)](https://github.com/Imbalance-VLM/Imbalance-VLM)
