@@ -43,7 +43,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
   Advances in Neural Information Processing Systems 2024 (<font color=Blue>``NeurIPS 2024``</font>).
 
-  <font color=Red>``It ranked 421 out of 4829 papers in terms of citations at NeurIPS 2024 (Top 8%).``</font>[\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/iclr_2024_main_conference_citations_top_30%25.json)
+  <font color=Red>``It ranked 421 out of 4829 papers in terms of citations at NeurIPS 2024 (Top 8%).``</font>[\[citation evidence\]](https://github.com/qianlanwyd/paper-citation-ranking)
 
 - (8) How do Large Language Models understand Genes and Cells. [\[paper\]](https://www.biorxiv.org/content/biorxiv/early/2024/03/27/2024.03.23.586383.full.pdf); [![](https://img.shields.io/github/stars/epang-ucas/Evaluate_LLMs_to_Genes?style=social&label=Code+Stars)](https://github.com/epang-ucas/Evaluate_LLMs_to_Genes)
 
@@ -57,7 +57,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   
   International Conference on Learning Representations 2024 (<font color=Blue>``ICLR 2024``</font>).
 
-  <font color=Red>``It ranked 66 out of 2296 papers in terms of citations at ICLR 2024 (Top 2%).``</font>[\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/iclr_2024_main_conference_citations_top_30%25.json)
+  <font color=Red>``It ranked 66 out of 2296 papers in terms of citations at ICLR 2024 (Top 2%).``</font>[\[citation evidence\]](https://github.com/qianlanwyd/paper-citation-ranking)
 
   
 - (6) Exploring Vision-Language Models for Imbalanced Learning. [\[paper\]](https://arxiv.org/abs/2304.01457); [![](https://img.shields.io/github/stars/Imbalance-VLM/Imbalance-VLM?style=social&label=Code+Stars)](https://github.com/Imbalance-VLM/Imbalance-VLM)
@@ -66,7 +66,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   
    International Journal of Computer Vision 2024 (<font color=Blue>``IJCV 2024``</font>).
 
-  <font color=Red>``It ranked 23 out of 300 papers in terms of citations among all papers in IJCV in 2024 (Top 8%).``</font>[\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/ijcv2024_citations_top_30%25.json)
+  <font color=Red>``It ranked 23 out of 300 papers in terms of citations among all papers in IJCV in 2024 (Top 8%).``</font>[\[citation evidence\]](https://github.com/qianlanwyd/paper-citation-ranking)
 
   
 - (5) FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning. [\[paper\]](https://arxiv.org/abs/2205.07246);  [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning)
@@ -75,7 +75,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   
   International Conference on Learning Representations 2023 (<font color=Blue>``ICLR 2023``</font>).
 
-  <font color=Red>``It ranked 47 out of 1584 papers in terms of citations at ICLR 2023 (Top 2%).``</font>[\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/iclr_2023_main_conference_citations_top_30%25.json)
+  <font color=Red>``It ranked 47 out of 1584 papers in terms of citations at ICLR 2023 (Top 2%).``</font>[\[citation evidence\]](https://github.com/qianlanwyd/paper-citation-ranking)
 
 - (4) USB: A Unified Semi-supervised Learning Benchmark for Classification. [\[paper\]](https://arxiv.org/abs/2208.07204); [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning) 
   
@@ -83,7 +83,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   
   Advances in Neural Information Processing Systems 2022 (<font color=Blue>``NeurIPS 2022 D&B Track``</font>).
 
-  <font color=Red>``It ranked 168 out of 2834 papers in terms of citations at NeurIPS 2022 (Top 5%).``</font>[\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/nips2022_conference_citations_top_30%25_merged.json)
+  <font color=Red>``It ranked 168 out of 2834 papers in terms of citations at NeurIPS 2022 (Top 5%).``</font>[\[citation evidence\]](https://github.com/qianlanwyd/paper-citation-ranking)
 
 - (3) Margin Calibration for Long-Tailed Visual Recognition. [\[paper\]](https://arxiv.org/abs/2112.07225); [![](https://img.shields.io/github/stars/microsoft/robustlearn?style=social&label=Code+Stars)](https://github.com/microsoft/robustlearn/tree/main/marc)
   
@@ -91,7 +91,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   
   Asian Conference on Machine Learning 2022 (<font color=Blue>``ACML 2022``</font>).
 
-  <font color=Red>``It ranked 1 out of 103 papers in terms of citations at ACML 2022 (Top 1%).``</font>[\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/acml_2022_citations_top_30%25.json)
+  <font color=Red>``It ranked 1 out of 103 papers in terms of citations at ACML 2022 (Top 1%).``</font>[\[citation evidence\]](https://github.com/qianlanwyd/paper-citation-ranking)
 
 - (2) Exploiting Unlabeled Data for Target-Oriented Opinion Words Extraction. [\[paper\]](https://arxiv.org/abs/2208.08280); [![](https://img.shields.io/github/stars/TOWESSL/TOWESSL?style=social&label=Code+Stars)](https://github.com/TOWESSL/TOWESSL) 
   
@@ -105,7 +105,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   
   Advances in Neural Information Processing Systems 2021 (<font color=Blue>``NeurIPS 2021``</font>).
   
-  <font color=Red>``It ranked 16 out of 2334 papers in terms of citations at NeurIPS 2021 (Top 1%).``</font> [\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/nips2021_citations_top_30%25.json)
+  <font color=Red>``It ranked 16 out of 2334 papers in terms of citations at NeurIPS 2021 (Top 1%).``</font> [\[citation evidence\]](https://github.com/qianlanwyd/paper-citation-ranking)
 
 
 # 📝 Preprints   
