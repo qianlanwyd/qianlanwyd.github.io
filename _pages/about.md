@@ -83,7 +83,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   
   Advances in Neural Information Processing Systems 2022 (<font color=Blue>``NeurIPS 2022 D&B Track``</font>).
 
-  <font color=Red>``It ranked 168 out of 2687 papers in terms of citations at NeurIPS 2022 (Top 6%).``</font>[\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/nips2022_conference_citations_top_30%25_merged.json)
+  <font color=Red>``It ranked 168 out of 2834 papers in terms of citations at NeurIPS 2022 (Top 5%).``</font>[\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/nips2022_conference_citations_top_30%25_merged.json)
 
 - (3) Margin Calibration for Long-Tailed Visual Recognition. [\[paper\]](https://arxiv.org/abs/2112.07225); [![](https://img.shields.io/github/stars/microsoft/robustlearn?style=social&label=Code+Stars)](https://github.com/microsoft/robustlearn/tree/main/marc)
   
@@ -105,7 +105,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   
   Advances in Neural Information Processing Systems 2021 (<font color=Blue>``NeurIPS 2021``</font>).
   
-  <font color=Red>``It ranked 16 out of 2,334 papers in terms of citations at NeurIPS 2021 (Top 1%).``</font> [\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/nips2021_citations_top_30%25.json)
+  <font color=Red>``It ranked 16 out of 2334 papers in terms of citations at NeurIPS 2021 (Top 1%).``</font> [\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/nips2021_citations_top_30%25.json)
 
 
 # 📝 Preprints   
