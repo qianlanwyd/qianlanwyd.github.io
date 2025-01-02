@@ -62,7 +62,10 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
 
   **Yidong Wang**, Zhuohao Yu, Jindong Wang, Qiang Heng, Hao Chen, Wei Ye, Rui Xie, Xing Xie, Shikun Zhang.
   
-   International Journal of Computer Vision 2023 (<font color=Blue>``IJCV 2023``</font>).
+   International Journal of Computer Vision 2024 (<font color=Blue>``IJCV 2024``</font>).
+
+  <font color=Red>``It ranked 23 out of 300 papers in terms of citations among all papers in IJCV in 2024 (Top 8%).``</font>[\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/ijcv2024_citations_top_30%25.json)
+
   
 - (5) FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning. [\[paper\]](https://arxiv.org/abs/2205.07246);  [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning)
   
@@ -85,6 +88,8 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   **Yidong Wang&#42;**, Bowen Zhang&#42;, Wenxin Hou, Zhen Wu, Jindong Wang, Takahiro Shinozaki. 
   
   Asian Conference on Machine Learning 2022 (<font color=Blue>``ACML 2022``</font>).
+
+  <font color=Red>``It ranked 1 out of 103 papers in terms of citations at ACML 2022 (Top 1%).``</font>[\[evidence\]](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/acml_2022_citations_top_30%25.json)
 
 - (2) Exploiting Unlabeled Data for Target-Oriented Opinion Words Extraction. [\[paper\]](https://arxiv.org/abs/2208.08280); [![](https://img.shields.io/github/stars/TOWESSL/TOWESSL?style=social&label=Code+Stars)](https://github.com/TOWESSL/TOWESSL) 
   
@@ -224,30 +229,30 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research interests lie
   Wang Lu, Jindong Wang, **Yidong Wang**, Kan Ren, Yiqiang Chen, Xing Xie.
 
   SIAM Conference on Data Mining 2024 (<font color=Blue>``SDM 2024``</font>).
+
+- (14) Exploring Vision-Language Models for Imbalanced Learning. [\[paper\]](https://arxiv.org/abs/2304.01457); [![](https://img.shields.io/github/stars/Imbalance-VLM/Imbalance-VLM?style=social&label=Code+Stars)](https://github.com/Imbalance-VLM/Imbalance-VLM)
+
+  **Yidong Wang**, Zhuohao Yu, Jindong Wang, Qiang Heng, Hao Chen, Wei Ye, Rui Xie, Xing Xie, Shikun Zhang.
   
-- (14) Out-of-Distribution Generalization in Natural Language Processing: Past, Present, and Future. [\[paper\]](https://arxiv.org/abs/2305.14104).
+   International Journal of Computer Vision 2024 (<font color=Blue>``IJCV 2024``</font>).
+  
+- (13) Out-of-Distribution Generalization in Natural Language Processing: Past, Present, and Future. [\[paper\]](https://arxiv.org/abs/2305.14104).
   
   Linyi Yang, Yaoxiao Song, Xuan Ren, Chenyang Lyu, **Yidong Wang**, Lingqiao Liu, Jindong Wang, Jennifer Foster, Yue Zhang.
 
   The 2023 Conference on Empirical Methods in Natural Language Processing (<font color=Blue>``EMNLP 2023``</font>).
   
-- (13) Evaluating open question answering evaluation. [\[paper\]](https://arxiv.org/abs/2305.12421); [![](https://img.shields.io/github/stars/wangcunxiang/QA-Eval?style=social&label=Code+Stars)](https://github.com/wangcunxiang/QA-Eval)
+- (12) Evaluating open question answering evaluation. [\[paper\]](https://arxiv.org/abs/2305.12421); [![](https://img.shields.io/github/stars/wangcunxiang/QA-Eval?style=social&label=Code+Stars)](https://github.com/wangcunxiang/QA-Eval)
   
   Cunxiang Wang, Sirui Cheng, Zhikun Xu, Bowen Ding, **Yidong Wang**, Yue Zhang.
 
    Advances in Neural Information Processing Systems 2023 (<font color=Blue>``NeurIPS 2023``</font>).
 
-- (12) Non-IID always Bad? Semi-Supervised Heterogeneous Federated Learning with Local Knowledge Enhancement.  [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614991); [![](https://img.shields.io/github/stars/zcfinal/FedLoKe?style=social&label=Code+Stars)](https://github.com/zcfinal/FedLoKe)
+- (11) Non-IID always Bad? Semi-Supervised Heterogeneous Federated Learning with Local Knowledge Enhancement.  [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614991); [![](https://img.shields.io/github/stars/zcfinal/FedLoKe?style=social&label=Code+Stars)](https://github.com/zcfinal/FedLoKe)
   
   Chao Zhang, Fangzhao Wu, Jingwei Yi, Derong Xu, Yang Yu, Jingdong Wang, **Yidong Wang**, Tong Xu, Xing Xie, Enhong Chen.
 
   The Conference on Information and Knowledge Management 2023 (<font color=Blue>``CIKM 2023``</font>).
-
-- (11) Exploring Vision-Language Models for Imbalanced Learning. [\[paper\]](https://arxiv.org/abs/2304.01457); [![](https://img.shields.io/github/stars/Imbalance-VLM/Imbalance-VLM?style=social&label=Code+Stars)](https://github.com/Imbalance-VLM/Imbalance-VLM)
-
-  **Yidong Wang**, Zhuohao Yu, Jindong Wang, Qiang Heng, Hao Chen, Wei Ye, Rui Xie, Xing Xie, Shikun Zhang.
-  
-   International Journal of Computer Vision 2023 (<font color=Blue>``IJCV 2023``</font>).
   
 - (10) GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-distribution Generalization Perspective. [\[paper\]](https://arxiv.org/abs/2211.08073); [![](https://img.shields.io/github/stars/YangLinyi/GLUE-X?style=social&label=Code+Stars)](https://github.com/YangLinyi/GLUE-X)
 
