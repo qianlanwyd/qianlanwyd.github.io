@@ -99,7 +99,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
   
   International Conference on Computational Linguistics 2022 (<font color=Blue>``COLING 2022``</font>).
 
-- (1) Flexmatch: Boosting Semi-supervised Learning with Curriculum Pseudo Labeling. [\[paper\]](https://arxiv.org/abs/2110.08263); [![](https://img.shields.io/github/stars/TorchSSL/TorchSSL?style=social&label=Code+Stars)](https://github.com/TorchSSL/TorchSSL) 
+- (1) Flexmatch: Boosting Semi-supervised Learning with Curriculum Pseudo Labeling. [\[paper\]](https://arxiv.org/abs/2110.08263); [![](https://img.shields.io/github/stars/TorchSSL/TorchSSL?style=social&label=Code+Stars)](https://github.com/TorchSSL/TorchSSL); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:TQgYirikUcIC'></span></strong>
   
   Bowen Zhang&#42;, **Yidong Wang&#42;**, Wenxin Hou, Hao Wu, Jindong Wang, Manabu Okumura, Takahiro Shinozaki. 
   
