@@ -37,7 +37,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
 - *2021.11 - 2022.02*, Microsoft Research Asia, advised by Dr. Jindong Wang.
 
 # 🔖 Selected Publications (* means equal contribution)
-- (9) AutoSurvey: Large Language Models Can Automatically Write Surveys. [\[paper\]](https://arxiv.org/pdf/2406.10252); [![](https://img.shields.io/github/stars/AutoSurveys/AutoSurvey?style=social&label=Code+Stars)](https://github.com/AutoSurveys/AutoSurvey); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:D03iK_w7-QYC'></span></strong>
+- (7) AutoSurvey: Large Language Models Can Automatically Write Surveys. [\[paper\]](https://arxiv.org/pdf/2406.10252); [![](https://img.shields.io/github/stars/AutoSurveys/AutoSurvey?style=social&label=Code+Stars)](https://github.com/AutoSurveys/AutoSurvey); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:D03iK_w7-QYC'></span></strong>
 
   **Yidong Wang&#42;**, Qi Guo&#42;, Wenjin Yao, Hongbo Zhang, Xin Zhang, Zhen Wu, Meishan Zhang, Xinyu Dai, Min Zhang, Qingsong Wen, Wei Ye, Shikun Zhang, Yue Zhang.
 
@@ -45,13 +45,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
 
   <span style="display: inline;"><font color="red">``It ranked 400 out of 4829 papers in terms of citations at NeurIPS 2024 (Top 8%).``</font></span>&nbsp;[<a href="https://github.com/qianlanwyd/paper-citation-ranking">citation evidence</a>]
 
-- (8) How do Large Language Models understand Genes and Cells. [\[paper\]](https://www.biorxiv.org/content/biorxiv/early/2024/03/27/2024.03.23.586383.full.pdf); [![](https://img.shields.io/github/stars/epang-ucas/Evaluate_LLMs_to_Genes?style=social&label=Code+Stars)](https://github.com/epang-ucas/Evaluate_LLMs_to_Genes); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:fPk4N6BV_jEC'></span></strong>
-
-  Chen Fang&#42;, **Yidong Wang&#42;**, Yunze Song, Qingqing Long, Wang Lu, Linghui Chen, Pengfei Wang, Guihai Feng, Yuanchun Zhou, Xin Li.
-
-  Transactions on Intelligent Systems and Technology (<font color=Blue>``TIST 2024``</font>).
-
-- (7) PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization. [\[paper\]](https://arxiv.org/abs/2306.05087); [![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Code+Stars)](https://github.com/WeOpenML/PandaLM); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:M3ejUd6NZC8C'></span></strong>
+- (6) PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization. [\[paper\]](https://arxiv.org/abs/2306.05087); [![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Code+Stars)](https://github.com/WeOpenML/PandaLM); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:M3ejUd6NZC8C'></span></strong>
   
   **Yidong Wang&#42;**, Zhuohao Yu&#42;, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang.
   
@@ -59,8 +53,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
 
   <span style="display: inline;"><font color="red">``It ranked 66 out of 2296 papers in terms of citations at ICLR 2024 (Top 2%).``</font></span>&nbsp;[<a href="https://github.com/qianlanwyd/paper-citation-ranking">citation evidence</a>]
 
-  
-- (6) Exploring Vision-Language Models for Imbalanced Learning. [\[paper\]](https://arxiv.org/abs/2304.01457); [![](https://img.shields.io/github/stars/Imbalance-VLM/Imbalance-VLM?style=social&label=Code+Stars)](https://github.com/Imbalance-VLM/Imbalance-VLM); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:3s1wT3WcHBgC'></span></strong>
+- (5) Exploring Vision-Language Models for Imbalanced Learning. [\[paper\]](https://arxiv.org/abs/2304.01457); [![](https://img.shields.io/github/stars/Imbalance-VLM/Imbalance-VLM?style=social&label=Code+Stars)](https://github.com/Imbalance-VLM/Imbalance-VLM); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:3s1wT3WcHBgC'></span></strong>
 
   **Yidong Wang**, Zhuohao Yu, Jindong Wang, Qiang Heng, Hao Chen, Wei Ye, Rui Xie, Xing Xie, Shikun Zhang.
   
@@ -68,8 +61,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
 
   <span style="display: inline;"><font color="red">``It ranked 23 out of 300 papers in terms of citations among all papers in IJCV in 2024 (Top 8%).``</font></span>&nbsp;[<a href="https://github.com/qianlanwyd/paper-citation-ranking">citation evidence</a>]
 
-  
-- (5) FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning. [\[paper\]](https://arxiv.org/abs/2205.07246);  [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:sSrBHYA8nusC'></span></strong>
+- (4) FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning. [\[paper\]](https://arxiv.org/abs/2205.07246);  [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:sSrBHYA8nusC'></span></strong>
   
   **Yidong Wang&#42;**, Hao Chen&#42;, Qiang Heng, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie.
   
@@ -77,7 +69,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
 
   <span style="display: inline;"><font color="red">``It ranked 47 out of 1584 papers in terms of citations at ICLR 2023 (Top 2%).``</font></span>&nbsp;[<a href="https://github.com/qianlanwyd/paper-citation-ranking">citation evidence</a>]
 
-- (4) USB: A Unified Semi-supervised Learning Benchmark for Classification. [\[paper\]](https://arxiv.org/abs/2208.07204); [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:_Qo2XoVZTnwC'></span></strong> 
+- (3) USB: A Unified Semi-supervised Learning Benchmark for Classification. [\[paper\]](https://arxiv.org/abs/2208.07204); [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:_Qo2XoVZTnwC'></span></strong> 
   
   **Yidong Wang&#42;**, Hao Chen&#42;, Yue Fan&#42;, Wang Sun, Ran Tao, Wenxin Hou, Renjie Wang, Linyi Yang, Zhi Zhou, Lan-Zhe Guo, Heli Qi, Zhen Wu, Yu-Feng Li, Satoshi Nakamura, Wei Ye, Marios Savvides, Bhiksha Raj, Takahiro Shinozaki, Bernt Schiele, Jindong Wang, Xing Xie, Yue Zhang. 
   
@@ -85,19 +77,13 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
 
   <span style="display: inline;"><font color="red">``It ranked 167 out of 2834 papers in terms of citations at NeurIPS 2022 (Top 6%).``</font></span>&nbsp;[<a href="https://github.com/qianlanwyd/paper-citation-ranking">citation evidence</a>]
 
-- (3) Margin Calibration for Long-Tailed Visual Recognition. [\[paper\]](https://arxiv.org/abs/2112.07225); [![](https://img.shields.io/github/stars/microsoft/robustlearn?style=social&label=Code+Stars)](https://github.com/microsoft/robustlearn/tree/main/marc); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:2osOgNQ5qMEC'></span></strong>
+- (2) Margin Calibration for Long-Tailed Visual Recognition. [\[paper\]](https://arxiv.org/abs/2112.07225); [![](https://img.shields.io/github/stars/microsoft/robustlearn?style=social&label=Code+Stars)](https://github.com/microsoft/robustlearn/tree/main/marc); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:2osOgNQ5qMEC'></span></strong>
   
   **Yidong Wang&#42;**, Bowen Zhang&#42;, Wenxin Hou, Zhen Wu, Jindong Wang, Takahiro Shinozaki. 
   
   Asian Conference on Machine Learning 2022 (<font color=Blue>``ACML 2022``</font>).
 
   <span style="display: inline;"><font color="red">``It ranked 1 out of 103 papers in terms of citations at ACML 2022 (Top 1%).``</font></span>&nbsp;[<a href="https://github.com/qianlanwyd/paper-citation-ranking">citation evidence</a>]
-
-- (2) Exploiting Unlabeled Data for Target-Oriented Opinion Words Extraction. [\[paper\]](https://arxiv.org/abs/2208.08280); [![](https://img.shields.io/github/stars/TOWESSL/TOWESSL?style=social&label=Code+Stars)](https://github.com/TOWESSL/TOWESSL); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:WF5omc3nYNoC'></span></strong> 
-  
-  **Yidong Wang&#42;**, Hao Wu&#42;, Ao Liu, Wenxin Hou, Zhen Wu, Jindong Wang, Takahiro Shinozaki, Manabu Okumura, Yue Zhang. 
-  
-  International Conference on Computational Linguistics 2022 (<font color=Blue>``COLING 2022``</font>).
 
 - (1) Flexmatch: Boosting Semi-supervised Learning with Curriculum Pseudo Labeling. [\[paper\]](https://arxiv.org/abs/2110.08263); [![](https://img.shields.io/github/stars/TorchSSL/TorchSSL?style=social&label=Code+Stars)](https://github.com/TorchSSL/TorchSSL); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:TQgYirikUcIC'></span></strong>
   
