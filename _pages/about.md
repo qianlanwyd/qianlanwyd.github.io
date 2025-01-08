@@ -93,23 +93,19 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
   
   <span style="display: inline;"><font color="red">``It ranked 16 out of 2334 papers in terms of citations at NeurIPS 2021 (Top 1%).``</font></span>&nbsp;[<a href="https://github.com/qianlanwyd/paper-citation-ranking">citation evidence</a>]
 
-
-# 📝 Preprints   
-- (3) A Survey on Evaluating Large Language Models in Code Generation Tasks. [\[paper\]](https://arxiv.org/pdf/2408.16498).
-  
-  Liguo Chen, Qi Guo, Hongrui Jia, Zhengran Zeng, Xin Wang, Yijiang Xu, Jian Wu, **Yidong Wang**, Qing Gao, Jindong Wang, Wei Ye, Shikun Zhang.
-
-- (2) Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity. [\[paper\]](https://arxiv.org/abs/2310.07521); [![](https://img.shields.io/github/stars/wangcunxiang/LLM-Factuality-Survey?style=social&label=Code+Stars)](https://github.com/wangcunxiang/LLM-Factuality-Survey)
+# 📝 Publications
+- (34) Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity. [\[paper\]](https://arxiv.org/abs/2310.07521); [![](https://img.shields.io/github/stars/wangcunxiang/LLM-Factuality-Survey?style=social&label=Code+Stars)](https://github.com/wangcunxiang/LLM-Factuality-Survey)
 
   Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi, **Yidong Wang**, Linyi Yang, Jindong Wang, Xing Xie, Zheng Zhang and Yue Zhang.
-  
-- (1) PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts. [\[paper\]](https://arxiv.org/abs/2306.04528); [![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Code+Stars)](https://github.com/microsoft/promptbench)
+
+  ACM Computing Surveys (<font color=Blue>``CSUR 2024``</font>).
+
+- (33) Promptrobust: Towards evaluating the robustness of large language models on adversarial prompts. [\[paper\]](https://arxiv.org/abs/2306.04528); [![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Code+Stars)](https://github.com/microsoft/promptbench)
   
   Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, **Yidong Wang**, Linyi Yang, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie.
 
+  ACM Conference on Computer and Communications Security workshop on privacy and security (Lamp) 2024 (<font color=Blue>``CCS workshop 2024``</font>).
 
-
-# 📝 Publications
 - (32) Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application. [\[paper\]](https://arxiv.org/pdf/2407.01885).
 
   Chuanpeng Yang, Wang Lu, Yao Zhu, **Yidong Wang**, Qian Chen, Chenlong Gao, Bingjie Yan, Yiqiang Chen.
