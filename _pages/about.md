@@ -96,7 +96,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
 # 📝 Publications
 - (34) Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity. [\[paper\]](https://arxiv.org/abs/2310.07521); [![](https://img.shields.io/github/stars/wangcunxiang/LLM-Factuality-Survey?style=social&label=Code+Stars)](https://github.com/wangcunxiang/LLM-Factuality-Survey)
 
-  Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi, **Yidong Wang**, Linyi Yang, Jindong Wang, Xing Xie, Zheng Zhang and Yue Zhang.
+  Cunxiang Wang&#42;, Xiaoze Liu&#42;, Yuanhao Yue&#42;, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi, **Yidong Wang**, Linyi Yang, Jindong Wang, Xing Xie, Zheng Zhang and Yue Zhang.
 
   ACM Computing Surveys (<font color=Blue>``CSUR 2024``</font>).
 
@@ -114,7 +114,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
   
 - (31) RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation. [\[paper\]](https://arxiv.org/pdf/2408.11381); [![](https://img.shields.io/github/stars/fate-ubw/RAGLAB?style=social&label=Code+Stars)](https://github.com/fate-ubw/RAGLAB)
 
-  Xuanwang Zhang, Yunze Song, **Yidong Wang**, Shuyun Tang, Xinfeng Li, Zhengran Zeng, Zhen Wu, Wei Ye, Wenyuan Xu, Yue Zhang, Xinyu Dai, Shikun Zhang, Qingsong Wen.
+  Xuanwang Zhang&#42;, Yunze Song&#42;, **Yidong Wang**, Shuyun Tang, Xinfeng Li, Zhengran Zeng, Zhen Wu, Wei Ye, Wenyuan Xu, Yue Zhang, Xinyu Dai, Shikun Zhang, Qingsong Wen.
   
   The 2024 Conference on Empirical Methods in Natural Language Processing System Demonstration Track (<font color=Blue>``EMNLP 2024 Demo Track``</font>).
   
@@ -138,13 +138,13 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
   
 - (27) AutoSurvey: Large Language Models Can Automatically Write Surveys. [\[paper\]](https://arxiv.org/pdf/2406.10252); [![](https://img.shields.io/github/stars/AutoSurveys/AutoSurvey?style=social&label=Code+Stars)](https://github.com/AutoSurveys/AutoSurvey)
 
-  **Yidong Wang**, Qi Guo, Wenjin Yao, Hongbo Zhang, Xin Zhang, Zhen Wu, Meishan Zhang, Xinyu Dai, Min Zhang, Qingsong Wen, Wei Ye, Shikun Zhang, Yue Zhang.
+  **Yidong Wang&#42;**, Qi Guo&#42;, Wenjin Yao, Hongbo Zhang, Xin Zhang, Zhen Wu, Meishan Zhang, Xinyu Dai, Min Zhang, Qingsong Wen, Wei Ye, Shikun Zhang, Yue Zhang.
 
   Advances in Neural Information Processing Systems 2024 (<font color=Blue>``NeurIPS 2024``</font>).
 
 - (26) How do Large Language Models understand Genes and Cells. [\[paper\]](https://www.biorxiv.org/content/biorxiv/early/2024/03/27/2024.03.23.586383.full.pdf); [![](https://img.shields.io/github/stars/epang-ucas/Evaluate_LLMs_to_Genes?style=social&label=Code+Stars)](https://github.com/epang-ucas/Evaluate_LLMs_to_Genes)
 
-  Chen Fang, **Yidong Wang (co-first author)**, Yunze Song, Qingqing Long, Wang Lu, Linghui Chen, Pengfei Wang, Guihai Feng, Yuanchun Zhou, Xin Li.
+  Chen Fang&#42;, **Yidong Wang&#42;**, Yunze Song, Qingqing Long, Wang Lu, Linghui Chen, Pengfei Wang, Guihai Feng, Yuanchun Zhou, Xin Li.
 
   Transactions on Intelligent Systems and Technology (<font color=Blue>``TIST 2024``</font>).
   
@@ -192,19 +192,19 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
 
 - (18) PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization. [\[paper\]](https://arxiv.org/abs/2306.05087); [![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Code+Stars)](https://github.com/WeOpenML/PandaLM)
   
-  **Yidong Wang**, Zhuohao Yu, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang.
+  **Yidong Wang&#42;**, Zhuohao Yu&#42;, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang.
   
   International Conference on Learning Representations 2024 (<font color=Blue>``ICLR 2024``</font>).
 
 - (17) Supervised Knowledge Makes Large Language Models Better In-context Learners. [\[paper\]](https://arxiv.org/pdf/2312.15918.pdf)
   
-  Linyi Yang, Shuibai Zhang, Zhuohao Yu, Guangsheng Bao, **Yidong Wang**, Jindong Wang, Ruochen Xu, Wei Ye, Xing Xie, Weizhu Chen, Yue Zhang.
+  Linyi Yang&#42;, Shuibai Zhang&#42;, Zhuohao Yu&#42;, Guangsheng Bao, **Yidong Wang**, Jindong Wang, Ruochen Xu, Wei Ye, Xing Xie, Weizhu Chen, Yue Zhang.
   
   International Conference on Learning Representations 2024 (<font color=Blue>``ICLR 2024``</font>).
 
 - (16) A Survey on Evaluation of Large Language Models. [\[paper\]](https://arxiv.org/abs/2307.03109); [![](https://img.shields.io/github/stars/MLGroupJLU/LLM-eval-survey?style=social&label=Code+Stars)](https://github.com/MLGroupJLU/LLM-eval-survey)
 
-  Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi, Cunxiang Wang, **Yidong Wang**, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, Xing Xie.
+  Yupeng Chang&#42;, Xu Wang&#42;, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi, Cunxiang Wang, **Yidong Wang**, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, Xing Xie.
 
   Transactions on Intelligent Systems and Technology (<font color=Blue>``TIST 2024``</font>).
   
@@ -222,13 +222,13 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
   
 - (13) Out-of-Distribution Generalization in Natural Language Processing: Past, Present, and Future. [\[paper\]](https://arxiv.org/abs/2305.14104).
   
-  Linyi Yang, Yaoxiao Song, Xuan Ren, Chenyang Lyu, **Yidong Wang**, Lingqiao Liu, Jindong Wang, Jennifer Foster, Yue Zhang.
+  Linyi Yang&#42;, Yaoxiao Song&#42;, Xuan Ren&#42;, Chenyang Lyu, **Yidong Wang**, Lingqiao Liu, Jindong Wang, Jennifer Foster, Yue Zhang.
 
   The 2023 Conference on Empirical Methods in Natural Language Processing (<font color=Blue>``EMNLP 2023``</font>).
   
 - (12) Evaluating open question answering evaluation. [\[paper\]](https://arxiv.org/abs/2305.12421); [![](https://img.shields.io/github/stars/wangcunxiang/QA-Eval?style=social&label=Code+Stars)](https://github.com/wangcunxiang/QA-Eval)
   
-  Cunxiang Wang, Sirui Cheng, Zhikun Xu, Bowen Ding, **Yidong Wang**, Yue Zhang.
+  Cunxiang Wang&#42;, Sirui Cheng&#42;, Zhikun Xu, Bowen Ding, **Yidong Wang**, Yue Zhang.
 
    Advances in Neural Information Processing Systems 2023 (<font color=Blue>``NeurIPS 2023``</font>).
 
@@ -240,43 +240,43 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
   
 - (10) GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-distribution Generalization Perspective. [\[paper\]](https://arxiv.org/abs/2211.08073); [![](https://img.shields.io/github/stars/YangLinyi/GLUE-X?style=social&label=Code+Stars)](https://github.com/YangLinyi/GLUE-X)
 
-  Linyi Yang, Shuibai Zhang, Libo Qin, Yafu Li, **Yidong Wang**, Hanmeng Liu, Jindong Wang, Xing Xie, Yue Zhang. 
+  Linyi Yang&#42;, Shuibai Zhang&#42;, Libo Qin, Yafu Li, **Yidong Wang**, Hanmeng Liu, Jindong Wang, Xing Xie, Yue Zhang. 
   
   Findings of Annual Meeting of the Association for Computational Linguistics 2023 (<font color=Blue>``ACL 2023 Findings``</font>).
 
 - (9) On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective. [\[paper\]](https://arxiv.org/abs/2302.12095); [![](https://img.shields.io/github/stars/microsoft/robustlearn?style=social&label=Code+Stars)](https://github.com/microsoft/robustlearn/tree/main/chatgpt-robust)
   
-  Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, **Yidong Wang**, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, Xing Xie.
+  Jindong Wang, Xixu Hu&#42;, Wenxin Hou&#42;, Hao Chen, Runkai Zheng, **Yidong Wang**, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, Xing Xie.
   
   Workshop on Trustworthy and Reliable Large-Scale Machine Learning Models at ICLR 2023 (<font color=Blue>``RTML Workshop 2023``</font>).
   
 - (8) FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning. [\[paper\]](https://arxiv.org/abs/2205.07246);  [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning)
   
-  **Yidong Wang**, Hao Chen, Qiang Heng, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie.
+  **Yidong Wang&#42;**, Hao Chen&#42;, Qiang Heng, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie.
   
   International Conference on Learning Representations 2023 (<font color=Blue>``ICLR 2023``</font>).
 
 - (7) SoftMatch: Addressing the Quantity-Quality Tradeoff in Semi-supervised Learning. [\[paper\]](https://arxiv.org/abs/2301.10921); [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning) 
   
-  Hao Chen, Ran Tao, Yue Fan, **Yidong Wang**, Marios Savvides, Jindong Wang, Bhiksha Raj, Xing Xie, Bernt Schiele. 
+  Hao Chen&#42;, Ran Tao&#42;, Yue Fan, **Yidong Wang**, Marios Savvides, Jindong Wang, Bhiksha Raj, Xing Xie, Bernt Schiele. 
   
   International Conference on Learning Representations 2023 (<font color=Blue>``ICLR 2023``</font>).
 
 - (6) USB: A Unified Semi-supervised Learning Benchmark for Classification. [\[paper\]](https://arxiv.org/abs/2208.07204); [![](https://img.shields.io/github/stars/microsoft/Semi-supervised-learning?style=social&label=Code+Stars)](https://github.com/microsoft/Semi-supervised-learning) 
   
-  **Yidong Wang**, Hao Chen, Yue Fan, Wang Sun, Ran Tao, Wenxin Hou, Renjie Wang, Linyi Yang, Zhi Zhou, Lan-Zhe Guo, Heli Qi, Zhen Wu, Yu-Feng Li, Satoshi Nakamura, Wei Ye, Marios Savvides, Bhiksha Raj, Takahiro Shinozaki, Bernt Schiele, Jindong Wang, Xing Xie, Yue Zhang. 
+  **Yidong Wang&#42;**, Hao Chen&#42;, Yue Fan&#42;, Wang Sun, Ran Tao, Wenxin Hou, Renjie Wang, Linyi Yang, Zhi Zhou, Lan-Zhe Guo, Heli Qi, Zhen Wu, Yu-Feng Li, Satoshi Nakamura, Wei Ye, Marios Savvides, Bhiksha Raj, Takahiro Shinozaki, Bernt Schiele, Jindong Wang, Xing Xie, Yue Zhang. 
   
   Advances in Neural Information Processing Systems 2022 (<font color=Blue>``NeurIPS 2022``</font>).
 
 - (5) Margin Calibration for Long-Tailed Visual Recognition. [\[paper\]](https://arxiv.org/abs/2112.07225); [![](https://img.shields.io/github/stars/microsoft/robustlearn?style=social&label=Code+Stars)](https://github.com/microsoft/robustlearn/tree/main/marc)
   
-  **Yidong Wang**, Bowen Zhang, Wenxin Hou, Zhen Wu, Jindong Wang, Takahiro Shinozaki. 
+  **Yidong Wang&#42;**, Bowen Zhang&#42;, Wenxin Hou, Zhen Wu, Jindong Wang, Takahiro Shinozaki. 
   
   Asian Conference on Machine Learning 2022 (<font color=Blue>``ACML 2022``</font>).
 
 - (4) Exploiting Unlabeled Data for Target-Oriented Opinion Words Extraction. [\[paper\]](https://arxiv.org/abs/2208.08280); [![](https://img.shields.io/github/stars/TOWESSL/TOWESSL?style=social&label=Code+Stars)](https://github.com/TOWESSL/TOWESSL) 
   
-  **Yidong Wang**, Hao Wu, Ao Liu, Wenxin Hou, Zhen Wu, Jindong Wang, Takahiro Shinozaki, Manabu Okumura, Yue Zhang. 
+  **Yidong Wang&#42;**, Hao Wu&#42;, Ao Liu, Wenxin Hou, Zhen Wu, Jindong Wang, Takahiro Shinozaki, Manabu Okumura, Yue Zhang. 
   
   International Conference on Computational Linguistics 2022 (<font color=Blue>``COLING 2022``</font>).
 
@@ -288,7 +288,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
 
 - (2) Flexmatch: Boosting Semi-supervised Learning with Curriculum Pseudo Labeling. [\[paper\]](https://arxiv.org/abs/2110.08263); [![](https://img.shields.io/github/stars/TorchSSL/TorchSSL?style=social&label=Code+Stars)](https://github.com/TorchSSL/TorchSSL) 
   
-  Bowen Zhang, **Yidong Wang (co-first author)**, Wenxin Hou, Hao Wu, Jindong Wang, Manabu Okumura, Takahiro Shinozaki. 
+  Bowen Zhang&#42;, **Yidong Wang&#42;**, Wenxin Hou, Hao Wu, Jindong Wang, Manabu Okumura, Takahiro Shinozaki. 
   
   Advances in Neural Information Processing Systems 2021 (<font color=Blue>``NeurIPS 2021``</font>).
 
