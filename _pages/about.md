@@ -45,9 +45,9 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
 
   <span style="display: inline;"><font color="red">``It ranked 400 out of 4829 papers in terms of citations at NeurIPS 2024 (Top 8%).``</font></span>&nbsp;[<a href="https://github.com/qianlanwyd/paper-citation-ranking">citation evidence</a>]
 
-- (6) PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization. [\[paper\]](https://arxiv.org/abs/2306.05087); [![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Code+Stars)](https://github.com/WeOpenML/PandaLM); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:M3ejUd6NZC8C'></span></strong>
+- (6) PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization. [\[paper\]](https://openreview.net/forum?id=5Nn2BLV7SB); [![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Code+Stars)](https://github.com/WeOpenML/PandaLM); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:M3ejUd6NZC8C'></span></strong>
   
-  **Yidong Wang&#42;**, Zhuohao Yu&#42;, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang.
+  **Yidong Wang&#42;**, Zhuohao Yu&#42;, Wenjin Yao, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang.
   
   International Conference on Learning Representations 2024 (<font color=Blue>``ICLR 2024``</font>).
 
@@ -190,9 +190,9 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
 
   The ACM SIGSOFT International Symposium on Software Testing and Analysis 2024 (<font color=Blue>``ISSTA 2024``</font>).
 
-- (18) PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization. [\[paper\]](https://arxiv.org/abs/2306.05087); [![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Code+Stars)](https://github.com/WeOpenML/PandaLM)
+- (18) PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization. [\[paper\]](https://openreview.net/forum?id=5Nn2BLV7SB); [![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Code+Stars)](https://github.com/WeOpenML/PandaLM)
   
-  **Yidong Wang&#42;**, Zhuohao Yu&#42;, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang.
+  **Yidong Wang&#42;**, Zhuohao Yu&#42;, Wenjin Yao, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang.
   
   International Conference on Learning Representations 2024 (<font color=Blue>``ICLR 2024``</font>).
 
