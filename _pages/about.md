@@ -130,7 +130,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
 
   Findings of The 2024 Conference on Empirical Methods in Natural Language Processing (<font color=Blue>``EMNLP 2024 Findings``</font>).
 
-- (28) Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations. [\[paper\]](https://arxiv.org/abs/2305.12715).
+- (28) Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations. [\[paper\]](https://arxiv.org/abs/2305.12715); [![](https://img.shields.io/github/stars/hhhhhhao/general-framework-weak-supervision?style=social&label=Code+Stars)](https://github.com/hhhhhhao/general-framework-weak-supervision)
   
   Hao Chen, Ankit Shah, Jindong Wang, Ran Tao, **Yidong Wang**, Xing Xie, Masashi Sugiyama, Rita Singh, Bhiksha Raj.
 
@@ -160,7 +160,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
 
    Annual Meeting of the Association for Computational Linguistics 2024 (<font color=Blue>``ACL 2024``</font>).
 
-- (23) KIEval: A Knowledge-grounded Interactive Evaluation Framework for Large Language Models. [\[paper\]](https://arxiv.org/abs/2402.15043).
+- (23) KIEval: A Knowledge-grounded Interactive Evaluation Framework for Large Language Models. [\[paper\]](https://arxiv.org/abs/2402.15043); [![](https://img.shields.io/github/stars/zhuohaoyu/KIEval?style=social&label=Code+Stars)](https://github.com/zhuohaoyu/KIEval)
   
    Zhuohao Yu, Chang Gao, Wenjin Yao, **Yidong Wang**, Wei Ye, Jindong Wang, Xing Xie, Yue Zhang, Shikun Zhang.
 
@@ -196,7 +196,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
   
   International Conference on Learning Representations 2024 (<font color=Blue>``ICLR 2024``</font>).
 
-- (17) Supervised Knowledge Makes Large Language Models Better In-context Learners. [\[paper\]](https://arxiv.org/pdf/2312.15918.pdf)
+- (17) Supervised Knowledge Makes Large Language Models Better In-context Learners. [\[paper\]](https://arxiv.org/pdf/2312.15918.pdf); [![](https://img.shields.io/github/stars/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners?style=social&label=Code+Stars)](https://github.com/yanglinyi/supervised-knowledge-makes-large-language-models-better-in-context-learners)
   
   Linyi Yang&#42;, Shuibai Zhang&#42;, Zhuohao Yu&#42;, Guangsheng Bao, **Yidong Wang**, Jindong Wang, Ruochen Xu, Wei Ye, Xing Xie, Weizhu Chen, Yue Zhang.
   
