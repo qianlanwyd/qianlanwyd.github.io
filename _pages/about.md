@@ -94,11 +94,17 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). My research embodies the 
   <span style="display: inline;"><font color="red">``It ranked 16 out of 2334 papers in terms of citations at NeurIPS 2021 (Top 1%).``</font></span>&nbsp;[<a href="https://github.com/qianlanwyd/paper-citation-ranking">citation evidence</a>]
 
 # 📝 Publications
-- (34) Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity. [\[paper\]](https://arxiv.org/abs/2310.07521); [![](https://img.shields.io/github/stars/wangcunxiang/LLM-Factuality-Survey?style=social&label=Code+Stars)](https://github.com/wangcunxiang/LLM-Factuality-Survey)
+- (35) Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity. [\[paper\]](https://arxiv.org/abs/2310.07521); [![](https://img.shields.io/github/stars/wangcunxiang/LLM-Factuality-Survey?style=social&label=Code+Stars)](https://github.com/wangcunxiang/LLM-Factuality-Survey)
 
   Cunxiang Wang&#42;, Xiaoze Liu&#42;, Yuanhao Yue&#42;, Xiangru Tang, Tianhang Zhang, Cheng Jiayang, Yunzhi Yao, Wenyang Gao, Xuming Hu, Zehan Qi, **Yidong Wang**, Linyi Yang, Jindong Wang, Xing Xie, Zheng Zhang and Yue Zhang.
 
-  ACM Computing Surveys (<font color=Blue>``CSUR 2024``</font>).
+  ACM Computing Surveys (<font color=Blue>``CSUR 2025``</font>).
+
+- (34)  XRDMatch: a semi-supervised learning framework to efficiently discover room temperature lithium superionic conductors. [\[paper\]](https://pubs.rsc.org/en/content/articlelanding/2024/ee/d4ee02970d/unauth).
+
+  Zheng Wan&#42;, Zhenying Chen&#42;, Hao Chen, Yizhi Jiang, Jinhuan Zhang, Yidong Wang, Jindong Wang, Hao Sun, Zhongjie Zhu, Jinhui Zhu, Linyi Yang, Wei Ye, Shikun Zhang, Xing Xie, Yue Zhang, Xiaodong Zhuang, Xiao He and Jinrong Yang.
+
+  Energy & Environmental Science (<font color=Blue>``Energy & Environmental Science 2024``</font>).
 
 - (33) Promptrobust: Towards evaluating the robustness of large language models on adversarial prompts. [\[paper\]](https://arxiv.org/abs/2306.04528); [![](https://img.shields.io/github/stars/microsoft/promptbench?style=social&label=Code+Stars)](https://github.com/microsoft/promptbench)
   
