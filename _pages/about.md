@@ -28,7 +28,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). I have published several 
 - **Rigorous assessment to ensure reliability**  
   Unified SSL benchmark (*USB*, NeurIPS 2022); Privacy-preserving LLM-as-a-judge evaluation (*PandaLM*, ICLR 2024); Data contamination free LLM evaluation (*Sanity Check*, ongoing); Alleviated inconsistencies in LLM-as-a-judge paradigms (*TrustJudge*, ongoing).  
 
-- **Practical applications to drive societal value**  
+- **Practical applications to create societal value**  
   Low-resource sentiment word extraction(*TOWE*, COLING 2022); Imbalanced vision-language adaptation (*VLMs+Decoder*, IJCV 2024); Applied LLMs to decode gene-cell interactions(*LLM4Genes*, TIST 2024); Automated research review synthesis (*AutoSurvey*, NeurIPS 2024).
 
 
