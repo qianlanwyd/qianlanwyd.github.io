@@ -26,10 +26,10 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). I have published several 
   Curriculum thresholding for semi-supervised learning(SSL) (*FlexMatch*, NeurIPS 2021); Self-adaptive threshold optimization for SSL (*FreeMatch*, ICLR 2023); Margin calibration for imbalaced learning (*MARC*, ACML 2022); Label-efficient LLM alignment (*DecAR*, ongoing).
 
 - **Rigorous assessment to ensure reliability**  
-  Unified SSL benchmark (*USB*, NeurIPS 2022); Privacy-preserving LLM-as-a-judge evaluation (*PandaLM*, ICLR 2024); Data contamination free LLM evaluation (*Sanity Check*, ongoing); Alleviate inconsistencies in LLM-as-a-judge paradigms (*TrustJudge*, ongoing).  
+  Unified SSL benchmark (*USB*, NeurIPS 2022); Privacy-preserving LLM-as-a-judge evaluation (*PandaLM*, ICLR 2024); Data contamination free LLM evaluation (*Sanity Check*, ongoing); Alleviated inconsistencies in LLM-as-a-judge paradigms (*TrustJudge*, ongoing).  
 
 - **Practical applications to drive societal value**  
-  Low-resource sentiment word extraction(*TOWE*, COLING 2022); Imbalanced vision-language adaptation (*VLMs+Decoder*, IJCV 2024); Automated research review synthesis (*AutoSurvey*, NeurIPS 2024).
+  Low-resource sentiment word extraction(*TOWE*, COLING 2022); Imbalanced vision-language adaptation (*VLMs+Decoder*, IJCV 2024); Applied LLMs to decode gene-cell interactions(*LLM4Genes*, TIST 2024); Automated research review synthesis (*AutoSurvey*, NeurIPS 2024).
 
 
 # 🔥 News
@@ -49,7 +49,7 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). I have published several 
 - *2021.11 - 2022.02*, Microsoft Research Asia, advised by Dr. Jindong Wang.
 
 # 🔖 Selected Publications (* means equal contribution)
-- (8) AutoSurvey: Large Language Models Can Automatically Write Surveys. [\[paper\]](https://arxiv.org/pdf/2406.10252); [![](https://img.shields.io/github/stars/AutoSurveys/AutoSurvey?style=social&label=Code+Stars)](https://github.com/AutoSurveys/AutoSurvey); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:D03iK_w7-QYC'></span></strong>
+- (9) AutoSurvey: Large Language Models Can Automatically Write Surveys. [\[paper\]](https://arxiv.org/pdf/2406.10252); [![](https://img.shields.io/github/stars/AutoSurveys/AutoSurvey?style=social&label=Code+Stars)](https://github.com/AutoSurveys/AutoSurvey); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:D03iK_w7-QYC'></span></strong>
 
   **Yidong Wang&#42;**, Qi Guo&#42;, Wenjin Yao, Hongbo Zhang, Xin Zhang, Zhen Wu, Meishan Zhang, Xinyu Dai, Min Zhang, Qingsong Wen, Wei Ye, Shikun Zhang, Yue Zhang.
 
@@ -57,13 +57,19 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). I have published several 
 
   <span style="display: inline;"><font color="red">``It ranked 262 out of 4829 papers in terms of citations at NeurIPS 2024 (Top 5%).``</font></span>&nbsp;[<a href="https://github.com/qianlanwyd/paper-citation-ranking">citation evidence</a>]
 
-- (7) PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization. [\[paper\]](https://openreview.net/forum?id=5Nn2BLV7SB); [![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Code+Stars)](https://github.com/WeOpenML/PandaLM); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:M3ejUd6NZC8C'></span></strong>
+- (8) PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization. [\[paper\]](https://openreview.net/forum?id=5Nn2BLV7SB); [![](https://img.shields.io/github/stars/WeOpenML/PandaLM?style=social&label=Code+Stars)](https://github.com/WeOpenML/PandaLM); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:M3ejUd6NZC8C'></span></strong>
   
   **Yidong Wang&#42;**, Zhuohao Yu&#42;, Wenjin Yao, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang.
   
   International Conference on Learning Representations 2024 (<font color=Blue>``ICLR 2024``</font>).
 
   <span style="display: inline;"><font color="red">``It ranked 66 out of 2296 papers in terms of citations at ICLR 2024 (Top 2%).``</font></span>&nbsp;[<a href="https://github.com/qianlanwyd/paper-citation-ranking">citation evidence</a>]
+
+- (7) How do Large Language Models understand Genes and Cells. [\[paper\]](https://www.biorxiv.org/content/biorxiv/early/2024/03/27/2024.03.23.586383.full.pdf); [![](https://img.shields.io/github/stars/epang-ucas/Evaluate_LLMs_to_Genes?style=social&label=Code+Stars)](https://github.com/epang-ucas/Evaluate_LLMs_to_Genes)
+
+  Chen Fang&#42;, **Yidong Wang&#42;**, Yunze Song, Qingqing Long, Wang Lu, Linghui Chen, Pengfei Wang, Guihai Feng, Yuanchun Zhou, Xin Li.
+
+  Transactions on Intelligent Systems and Technology (<font color=Blue>``TIST 2024``</font>).
 
 - (6) Exploring Vision-Language Models for Imbalanced Learning. [\[paper\]](https://arxiv.org/abs/2304.01457); [![](https://img.shields.io/github/stars/Imbalance-VLM/Imbalance-VLM?style=social&label=Code+Stars)](https://github.com/Imbalance-VLM/Imbalance-VLM); <strong><span class='show_paper_citations' data='YomxTXQAAAAJ:3s1wT3WcHBgC'></span></strong>
 
