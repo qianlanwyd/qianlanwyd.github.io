@@ -43,7 +43,6 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). I have published several 
 - *2015.09 - 2019.06*, undergraduate student in the Department of Computer Science and Technology of Nanjing University, advised by Prof. Xinyu Dai.
 
 # 💼 Internships
-- *2024.01 - Now*, Squirrel AI, advised by Dr. Qingsong Wen.
 - *2022.05 - 2022.10*, Microsoft Research Asia, advised by Dr. Jindong Wang.
 - *2022.02 - 2022.05*, Westlake University, advised by Prof. Yue Zhang.
 - *2021.11 - 2022.02*, Microsoft Research Asia, advised by Dr. Jindong Wang.
