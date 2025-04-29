@@ -1,9 +1,9 @@
 name: Get Citation Data
 
 on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,22 +12,34 @@ jobs:
       PIP_BREAK_SYSTEM_PACKAGES: "1"
     steps:
     - uses: actions/checkout@v2
-    - name: Install Reqs
+
+    - name: Install dependencies
       run: |
-        sudo apt-get install python3-setuptools
-    - name: Run
-      run: |
-        cd ./google_scholar_crawler
+        sudo apt-get update
+        cd google_scholar_crawler
         pip3 install -r requirements.txt
+
+    - name: Run crawler
+      run: |
+        cd google_scholar_crawler
         python3 main.py
-        cd ./results
-        git init
-        git config --local user.name "${GITHUB_ACTOR}"
-        git config --local user.email "yidongwang37@gmail.com"
-        git config --local user.name "qianlanwyd"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
-        git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
       env: 
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+
+    - name: Commit and push results
+      run: |
+        # 回到仓库根目录
+        cd ${GITHUB_WORKSPACE}
+        
+        # 配置Git
+        git config --global user.name "${GITHUB_ACTOR}"
+        git config --global user.email "yidongwang37@gmail.com"
+        
+        # 添加变更文件
+        git add google_scholar_crawler/results/*.json
+        
+        # 提交变更
+        git commit -m "Updated Citation Data" || echo "No changes to commit"
+        
+        # 强制推送到目标分支
+        git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:google-scholar-stats --force
