@@ -23,10 +23,10 @@ Hello, I am Yidong Wang \[i:doʊn wɑ:n\] (王一栋). I have published several 
 **Algorithm → Assessment → Application** synergistically advances trustworthy AI (All publications mentioned below are my first-author works.):  
 
 - **Novel algorithms to address real-world challenges**  
-  Curriculum thresholding for semi-supervised learning(SSL) (*FlexMatch*, NeurIPS 2021); Self-adaptive threshold optimization for SSL (*FreeMatch*, ICLR 2023); Margin calibration for imbalaced learning (*MARC*, ACML 2022); Label-efficient LLM alignment (*DecAR*, ongoing).
+  Curriculum thresholding for semi-supervised learning(SSL) (*FlexMatch*, NeurIPS 2021); Self-adaptive threshold optimization for SSL (*FreeMatch*, ICLR 2023); Margin calibration for imbalaced learning (*MARC*, ACML 2022).
 
 - **Rigorous assessment to ensure reliability**  
-  Unified SSL benchmark (*USB*, NeurIPS 2022); Privacy-preserving LLM-as-a-judge evaluation (*PandaLM*, ICLR 2024); Data contamination free LLM evaluation (*Sanity Check*, ongoing); Alleviated inconsistencies in LLM-as-a-judge paradigms (*TrustJudge*, ongoing).  
+  Unified SSL benchmark (*USB*, NeurIPS 2022); Privacy-preserving LLM-as-a-judge evaluation (*PandaLM*, ICLR 2024).
 
 - **Practical applications to create societal value**  
   Low-resource sentiment word extraction(*TOWE*, COLING 2022); Imbalanced vision-language adaptation (*VLMs+Decoder*, IJCV 2024); Applied LLMs to decode gene-cell interactions(*LLM4Genes*, TIST 2024); Automated research review synthesis (*AutoSurvey*, NeurIPS 2024).
