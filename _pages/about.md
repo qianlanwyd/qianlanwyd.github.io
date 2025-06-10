@@ -17,16 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several papers at the top international AI Conferences / Journals. Details of my publications can be found at <a href='https://scholar.google.com/citations?user=YomxTXQAAAAJ' target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; margin-left: 4px;">
-  <svg width="20" height="20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="margin-right: 5px;">
-    <path d="M12 8.5c-2.5 0-4.5 2-4.5 4.5s2 4.5 4.5 4.5 4.5-2 4.5-4.5-2-4.5-4.5-4.5zM19 8h-2v2h-1v-2h-2V7h2V5h1v2h2v1z" fill="#4285F4"/>
-    <path d="M12 15.5c-1.4 0-2.5-1.1-2.5-2.5s1.1-2.5 2.5-2.5 2.5 1.1 2.5 2.5-1.1 2.5-2.5 2.5z" fill="#EA4335"/>
-    <path d="M12 19c-3.9 0-7-3.1-7-7s3.1-7 7-7 7 3.1 7 7-3.1 7-7 7zm0-12c-2.8 0-5 2.2-5 5s2.2 5 5 5 5-2.2 5-5-2.2-5-5-5z" fill="#34A853"/>
-    <path d="M17 12c0-2.8-2.2-5-5-5s-5 2.2-5 5 2.2 5 5 5 5-2.2 5-5z" fill="#FBBC05"/>
-  </svg>
+Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several papers at the top international AI Conferences / Journals. Details of my publications can be found at <a href='https://scholar.google.com/citations?user=YomxTXQAAAAJ' target="_blank" style="text-decoration: none; margin-left: 4px;">
   <span style="color: #4285F4; font-weight: 500;">Google Scholar</span>
-</a>.
- If you are interested in collaboration, feel free to email me at yidongwang37[at]gmail.com (please replace [at] with @).
+</a>. If you are interested in collaboration, feel free to email me at yidongwang37[at]gmail.com (please replace [at] with @).
 
 # My Research Philosophy: The 3A Framework  
 **Algorithm → Assessment → Application** synergistically advances trustworthy AI (All publications mentioned below are my first-author works.):  
