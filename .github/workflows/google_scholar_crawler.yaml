@@ -22,24 +22,24 @@ jobs:
     - name: Run crawler
       run: |
         cd google_scholar_crawler
-        python3 main.py
+        # python3 main.py
       env: 
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
 
-    - name: Commit and push results
-      run: |
-        # 回到仓库根目录
-        cd ${GITHUB_WORKSPACE}
+    # - name: Commit and push results
+    #   run: |
+    #     # 回到仓库根目录
+    #     cd ${GITHUB_WORKSPACE}
         
-        # 配置Git
-        git config --global user.name "${GITHUB_ACTOR}"
-        git config --global user.email "yidongwang37@gmail.com"
+    #     # 配置Git
+    #     git config --global user.name "${GITHUB_ACTOR}"
+    #     git config --global user.email "yidongwang37@gmail.com"
         
-        # 添加变更文件
-        git add google_scholar_crawler/results/*.json
+    #     # 添加变更文件
+    #     git add google_scholar_crawler/results/*.json
         
-        # 提交变更
-        git commit -m "Updated Citation Data" || echo "No changes to commit"
+    #     # 提交变更
+    #     git commit -m "Updated Citation Data" || echo "No changes to commit"
         
-        # 强制推送到目标分支
-        git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:google-scholar-stats --force
+    #     # 强制推送到目标分支
+    #     git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:google-scholar-stats --force
