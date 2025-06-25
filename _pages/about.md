@@ -119,7 +119,7 @@ Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several pa
   <span style="display: inline;"><font color="red">``It ranked 16 out of 2334 papers in terms of citations at NeurIPS 2021 (Top 1%).``</font></span>&nbsp;[<a href="https://github.com/qianlanwyd/paper-citation-ranking">citation evidence</a>]
 
 # 📝 Publications
-- (36) Learning from" Silly" Questions Improves Large Language Models, But Only Slightly. [\[paper\]](https://arxiv.org/abs/2411.14121).
+- (36) Learning from ``Silly" Questions Improves Large Language Models, But Only Slightly. [\[paper\]](https://arxiv.org/abs/2411.14121).
 
   Tingyuan Zhu, Shudong Liu, **Yidong Wang**, Derek F Wong, Han Yu, Takahiro Shinozaki and Jindong Wang.
 
