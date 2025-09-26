@@ -119,6 +119,18 @@ Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several pa
   <span style="display: inline;"><font color="red">``It ranked 16 out of 2334 papers in terms of citations at NeurIPS 2021 (Top 1%).``</font></span>&nbsp;[<a href="https://github.com/qianlanwyd/paper-citation-ranking">citation evidence</a>]
 
 # 📝 Publications
+- (38) Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought. [\[paper\]](https://arxiv.org/abs/2505.15510).
+
+  Zihui Cheng, Qiguang Chen, Xiao Xu, Jiaqi Wang, Weiyun Wang, Hao Fei, **Yidong Wang**, Alex Jinpeng Wang, Zhi Chen, Wanxiang Che, Libo Qin.
+
+  Advances in Neural Information Processing Systems 2025 (<font color=Blue>``NeurIPS 2025``</font>).
+  
+- (37) SAEMark: Steering Personalized Multilingual LLM Watermarks with Sparse Autoencoders. [\[paper\]](https://arxiv.org/abs/2508.08211).
+
+  Zhuohao Yu, Xingru Jiang, Weizheng Gu, **Yidong Wang**, Shikun Zhang, Wei Ye.
+
+  Advances in Neural Information Processing Systems 2025 (<font color=Blue>``NeurIPS 2025``</font>).
+  
 - (36) Learning from ``Silly" Questions Improves Large Language Models, But Only Slightly. [\[paper\]](https://arxiv.org/abs/2411.14121).
 
   Tingyuan Zhu, Shudong Liu, **Yidong Wang**, Derek F Wong, Han Yu, Takahiro Shinozaki and Jindong Wang.
