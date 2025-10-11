@@ -14,9 +14,6 @@ main:
 
   - title: "Selected Publications"
     url: "/#-selected-publications"
-    
-  - title: "Preprints"
-    url: "/#-preprints"
 
   - title: "Publications"
     url: "/#-publications"
