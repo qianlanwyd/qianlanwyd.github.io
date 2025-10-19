@@ -22,7 +22,7 @@ Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several pa
 </a>. If you are interested in collaboration, feel free to email me at yidongwang37[at]gmail.com (please replace [at] with @).
 
 # My Research Philosophy: The 3A Framework  
-**Algorithm → Assessment → Application** synergistically advances trustworthy AI (All publications mentioned below are my (co)first-author works.):  
+**Algorithm → Assessment → Application** synergistically advances trustworthy AI (All publications mentioned below are my (co)first-author works):  
 
 - **Novel algorithms to address real-world challenges**  
   Curriculum thresholding for semi-supervised learning(SSL) (*FlexMatch*, NeurIPS 2021); Self-adaptive threshold optimization for SSL (*FreeMatch*, ICLR 2023); Imbalanced vision-language adaptation (*VLMs+Decoder*, IJCV 2024); Margin calibration for imbalaced learning (*MARC*, ACML 2022).
