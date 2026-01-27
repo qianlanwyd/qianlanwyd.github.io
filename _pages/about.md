@@ -55,7 +55,7 @@ Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several pa
 
 - (10) TrustJudge: Inconsistencies of LLM-as-a-Judge and How to Alleviate Them. [\[paper\]](https://arxiv.org/abs/2509.21117); [![](https://img.shields.io/github/stars/TrustJudge/TrustJudge?style=social&label=Code+Stars)](https://github.com/TrustJudge/TrustJudge).
   
-  **Yidong Wang&#42;**, Yunze Song#42;, Tingyuan Zhu, Xuanwang Zhang, Zhuohao Yu, Hao Chen, Chiyu Song, Qiufeng Wang, Cunxiang Wang, Zhen Wu, Xinyu Dai, Yue Zhang, Wei Ye, Shikun Zhang.
+  **Yidong Wang&#42;**, Yunze Song&#42;, Tingyuan Zhu, Xuanwang Zhang, Zhuohao Yu, Hao Chen, Chiyu Song, Qiufeng Wang, Cunxiang Wang, Zhen Wu, Xinyu Dai, Yue Zhang, Wei Ye, Shikun Zhang.
   
   International Conference on Learning Representations 2026 (<font color=Blue>``ICLR 2026``</font>).
 
@@ -131,7 +131,7 @@ Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several pa
 
 - (39) TrustJudge: Inconsistencies of LLM-as-a-Judge and How to Alleviate Them. [\[paper\]](https://arxiv.org/abs/2509.21117); [![](https://img.shields.io/github/stars/TrustJudge/TrustJudge?style=social&label=Code+Stars)](https://github.com/TrustJudge/TrustJudge).
   
-  **Yidong Wang&#42;**, Yunze Song#42;, Tingyuan Zhu, Xuanwang Zhang, Zhuohao Yu, Hao Chen, Chiyu Song, Qiufeng Wang, Cunxiang Wang, Zhen Wu, Xinyu Dai, Yue Zhang, Wei Ye, Shikun Zhang.
+  **Yidong Wang&#42;**, Yunze Song&#42;, Tingyuan Zhu, Xuanwang Zhang, Zhuohao Yu, Hao Chen, Chiyu Song, Qiufeng Wang, Cunxiang Wang, Zhen Wu, Xinyu Dai, Yue Zhang, Wei Ye, Shikun Zhang.
   
   International Conference on Learning Representations 2026 (<font color=Blue>``ICLR 2026``</font>).
 
