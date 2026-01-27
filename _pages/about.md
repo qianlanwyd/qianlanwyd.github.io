@@ -53,6 +53,12 @@ Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several pa
 
 (* means equal contribution)
 
+- (10) TrustJudge: Inconsistencies of LLM-as-a-Judge and How to Alleviate Them. [\[paper\]](https://arxiv.org/abs/2509.21117); [![](https://img.shields.io/github/stars/TrustJudge/TrustJudge?style=social&label=Code+Stars)](https://github.com/TrustJudge/TrustJudge).
+  
+  **Yidong Wang&#42;**, Yunze Song#42;, Tingyuan Zhu, Xuanwang Zhang, Zhuohao Yu, Hao Chen, Chiyu Song, Qiufeng Wang, Cunxiang Wang, Zhen Wu, Xinyu Dai, Yue Zhang, Wei Ye, Shikun Zhang.
+  
+  International Conference on Learning Representations 2026 (<font color=Blue>``ICLR 2026``</font>).
+
 - (9) AutoSurvey: Large Language Models Can Automatically Write Surveys. [\[paper\]](https://arxiv.org/pdf/2406.10252); [![](https://img.shields.io/github/stars/AutoSurveys/AutoSurvey?style=social&label=Code+Stars)](https://github.com/AutoSurveys/AutoSurvey).
 
   **Yidong Wang&#42;**, Qi Guo&#42;, Wenjin Yao, Hongbo Zhang, Xin Zhang, Zhen Wu, Meishan Zhang, Xinyu Dai, Min Zhang, Qingsong Wen, Wei Ye, Shikun Zhang, Yue Zhang.
@@ -122,6 +128,13 @@ Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several pa
   <span style="display: inline;"><font color="red">``It ranked 16 out of 2334 papers in terms of citations at NeurIPS 2021 (Top 1%).``</font></span>&nbsp;[<a href="https://github.com/qianlanwyd/paper-citation-ranking">citation evidence</a>]
 
 # 📝 Publications
+
+- (39) TrustJudge: Inconsistencies of LLM-as-a-Judge and How to Alleviate Them. [\[paper\]](https://arxiv.org/abs/2509.21117); [![](https://img.shields.io/github/stars/TrustJudge/TrustJudge?style=social&label=Code+Stars)](https://github.com/TrustJudge/TrustJudge).
+  
+  **Yidong Wang&#42;**, Yunze Song#42;, Tingyuan Zhu, Xuanwang Zhang, Zhuohao Yu, Hao Chen, Chiyu Song, Qiufeng Wang, Cunxiang Wang, Zhen Wu, Xinyu Dai, Yue Zhang, Wei Ye, Shikun Zhang.
+  
+  International Conference on Learning Representations 2026 (<font color=Blue>``ICLR 2026``</font>).
+
 - (38) Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought. [\[paper\]](https://arxiv.org/abs/2505.15510).
 
   Zihui Cheng, Qiguang Chen, Xiao Xu, Jiaqi Wang, Weiyun Wang, Hao Fei, **Yidong Wang**, Alex Jinpeng Wang, Zhi Chen, Wanxiang Che, Libo Qin.
