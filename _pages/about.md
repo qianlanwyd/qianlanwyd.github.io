@@ -53,6 +53,12 @@ Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several pa
 
 (* means equal contribution)
 
+- (11) Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future. [\[paper\]](https://arxiv.org/abs/2508.06026).
+  
+  **Yidong Wang&#42;**, Xin Wang#42;, Cunxiang Wang, Junfeng Fang, Qiufeng Wang, Jianing Chu, Xuran Meng, Shuxun Yang, Libo Qin, Yue Zhang, Wei Ye, Shikun Zhang.
+
+  The Forty-third International Conference on Machine Learning (<font color=Blue>``ICML 2026``</font>).
+
 - (10) TrustJudge: Inconsistencies of LLM-as-a-Judge and How to Alleviate Them. [\[paper\]](https://arxiv.org/abs/2509.21117); [![](https://img.shields.io/github/stars/TrustJudge/TrustJudge?style=social&label=Code+Stars)](https://github.com/TrustJudge/TrustJudge).
   
   **Yidong Wang&#42;**, Yunze Song&#42;, Tingyuan Zhu, Xuanwang Zhang, Zhuohao Yu, Hao Chen, Chiyu Song, Qiufeng Wang, Cunxiang Wang, Zhen Wu, Xinyu Dai, Yue Zhang, Wei Ye, Shikun Zhang.
@@ -128,6 +134,12 @@ Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several pa
   <span style="display: inline;"><font color="red">``It ranked 16 out of 2334 papers in terms of citations at NeurIPS 2021 (Top 1%).``</font></span>&nbsp;[<a href="https://github.com/qianlanwyd/paper-citation-ranking">citation evidence</a>]
 
 # 📝 Publications
+
+- (40) Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future. [\[paper\]](https://arxiv.org/abs/2508.06026).
+  
+  **Yidong Wang&#42;**, Xin Wang#42;, Cunxiang Wang, Junfeng Fang, Qiufeng Wang, Jianing Chu, Xuran Meng, Shuxun Yang, Libo Qin, Yue Zhang, Wei Ye, Shikun Zhang.
+
+  The Forty-third International Conference on Machine Learning (<font color=Blue>``ICML 2026``</font>).
 
 - (39) TrustJudge: Inconsistencies of LLM-as-a-Judge and How to Alleviate Them. [\[paper\]](https://arxiv.org/abs/2509.21117); [![](https://img.shields.io/github/stars/TrustJudge/TrustJudge?style=social&label=Code+Stars)](https://github.com/TrustJudge/TrustJudge).
   
