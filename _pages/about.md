@@ -55,7 +55,7 @@ Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several pa
 
 - (11) Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future. [\[paper\]](https://arxiv.org/abs/2508.06026).
   
-  **Yidong Wang&#42;**, Xin Wang#42;, Cunxiang Wang, Junfeng Fang, Qiufeng Wang, Jianing Chu, Xuran Meng, Shuxun Yang, Libo Qin, Yue Zhang, Wei Ye, Shikun Zhang.
+  **Yidong Wang&#42;**, Xin Wang&#42;, Cunxiang Wang, Junfeng Fang, Qiufeng Wang, Jianing Chu, Xuran Meng, Shuxun Yang, Libo Qin, Yue Zhang, Wei Ye, Shikun Zhang.
 
   The Forty-third International Conference on Machine Learning (<font color=Blue>``ICML 2026``</font>).
 
