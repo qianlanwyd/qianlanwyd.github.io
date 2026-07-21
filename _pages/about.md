@@ -53,7 +53,7 @@ Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several pa
 
 (* means equal contribution)
 
-- (11) Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future. [\[paper\]](https://arxiv.org/abs/2508.06026).
+- (11) Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future. [\[paper\]](https://arxiv.org/abs/2508.06026); [![](https://img.shields.io/github/stars/TemporalSelfRewarding/TSR?style=social&label=Code+Stars)](https://github.com/TemporalSelfRewarding/TSR).
   
   **Yidong Wang&#42;**, Xin Wang&#42;, Cunxiang Wang, Junfeng Fang, Qiufeng Wang, Jianing Chu, Xuran Meng, Shuxun Yang, Libo Qin, Yue Zhang, Wei Ye, Shikun Zhang.
 
