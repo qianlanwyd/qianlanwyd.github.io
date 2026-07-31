@@ -33,11 +33,6 @@ Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several pa
 - **Practical applications to create societal value**  
   Low-resource sentiment word extraction(*TOWE*, COLING 2022); Applied LLMs to decode gene-cell interactions(*LLM4Genes*, TIST 2024); Automated research review synthesis (*AutoSurvey*, NeurIPS 2024).
 
-
-# 🔥 News
-- *2023.09*: &nbsp;🎉🎉 I became a Ph.D. Student at Peking University.
-- *2023.08*: &nbsp;🎉🎉 I finished my internship at Westlake University.
-- *2022.10*: &nbsp;🎉🎉 I finished my internship at MSRA.
   
 # 📖 Educations
 - *2023.09 - 2027.06*, doctoral student at National Engineering Research Center for Software Engineering, Peking University, advised by Prof. Shikun Zhang and Prof. Wei Ye.
@@ -45,9 +40,11 @@ Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several pa
 - *2015.09 - 2019.06*, undergraduate student in the Department of Computer Science and Technology of Nanjing University, advised by Prof. Xinyu Dai.
 
 # 💼 Internships
-- *2022.05 - 2022.10*, Microsoft Research Asia, advised by Dr. Jindong Wang.
-- *2022.02 - 2022.05*, Westlake University, advised by Prof. Yue Zhang.
-- *2021.11 - 2022.02*, Microsoft Research Asia, advised by Dr. Jindong Wang.
+- Tencent Youtu, advised by Dr. Ke Li and Dr. Xing Sun.
+- Zhipu GLM, advised by Dr. Cunxiang Wang.
+- Beijing Innovation Center of Humanoid Robotics, advised by Dr. Yong Dai.
+- Westlake University, advised by Prof. Yue Zhang.
+- Microsoft Research Asia, advised by Dr. Jindong Wang.
 
 # 🔖 Selected Publications
 
