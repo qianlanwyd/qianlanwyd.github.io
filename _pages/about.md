@@ -40,7 +40,7 @@ Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several pa
 - *2015.09 - 2019.06*, undergraduate student in the Department of Computer Science and Technology of Nanjing University, advised by Prof. Xinyu Dai.
 
 # 💼 Internships
-- Tencent Youtu, advised by Dr. Ke Li and Dr. Xing Sun.
+- Tencent Youtu, advised by Ke Li and Dr. Xing Sun.
 - Zhipu GLM, advised by Dr. Cunxiang Wang.
 - Beijing Innovation Center of Humanoid Robotics, advised by Dr. Yong Dai.
 - Westlake University, advised by Prof. Yue Zhang.
