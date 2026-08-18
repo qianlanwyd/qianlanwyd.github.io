@@ -50,6 +50,10 @@ Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several pa
 
 (* means equal contribution)
 
+- (13) GLM-5: from Vibe Coding to Agentic Engineering. [\[paper\]](https://arxiv.org/abs/2602.15763).
+
+- (12) GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models. [\[paper\]](https://arxiv.org/abs/2508.06471).
+
 - (11) Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future. [\[paper\]](https://arxiv.org/abs/2508.06026); [![](https://img.shields.io/github/stars/TemporalSelfRewarding/TSR?style=social&label=Code+Stars)](https://github.com/TemporalSelfRewarding/TSR).
   
   **Yidong Wang&#42;**, Xin Wang&#42;, Cunxiang Wang, Junfeng Fang, Qiufeng Wang, Jianing Chu, Xuran Meng, Shuxun Yang, Libo Qin, Yue Zhang, Wei Ye, Shikun Zhang.
@@ -132,11 +136,19 @@ Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several pa
 
 # 📝 Publications
 
-- (40) Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future. [\[paper\]](https://arxiv.org/abs/2508.06026).
+- (42) GLM-5: from Vibe Coding to Agentic Engineering. [\[paper\]](https://arxiv.org/abs/2602.15763).
+
+  arXiv preprint (<font color=Blue>``arXiv 2026``</font>).
+
+- (41) Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future. [\[paper\]](https://arxiv.org/abs/2508.06026).
   
   **Yidong Wang&#42;**, Xin Wang#42;, Cunxiang Wang, Junfeng Fang, Qiufeng Wang, Jianing Chu, Xuran Meng, Shuxun Yang, Libo Qin, Yue Zhang, Wei Ye, Shikun Zhang.
 
   The Forty-third International Conference on Machine Learning (<font color=Blue>``ICML 2026``</font>).
+
+- (40) GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models. [\[paper\]](https://arxiv.org/abs/2508.06471).
+
+  arXiv preprint (<font color=Blue>``arXiv 2025``</font>).
 
 - (39) TrustJudge: Inconsistencies of LLM-as-a-Judge and How to Alleviate Them. [\[paper\]](https://arxiv.org/abs/2509.21117); [![](https://img.shields.io/github/stars/TrustJudge/TrustJudge?style=social&label=Code+Stars)](https://github.com/TrustJudge/TrustJudge).
   
