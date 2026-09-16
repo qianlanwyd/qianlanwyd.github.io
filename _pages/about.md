@@ -50,6 +50,12 @@ Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several pa
 
 (* means equal contribution)
 
+- (14) TrustRoboReward: Preference-Ordered Isotonic Score Editing for Multi-Paradigm Robot Reward Models. [\[paper\]](https://arxiv.org/pdf/2608.08491); [![](https://img.shields.io/github/stars/TrustRoboreward/TrustRoboReward?style=social&label=Code+Stars)](https://github.com/TrustRoboreward/TrustRoboReward).
+
+  **Yidong Wang**, Yan Zhan, Ziteng Feng, Zhenyu Cui, Ziyi Zhou, Renzhao Liang, Jiaxuan Zhu, Zilei Yang, Yiran Zhao, Zhongkuan Mao, Bo Jia, Hanchu Ni, Chenggang Xie, Biao Liu, Yi Zhang, Yong Dai, Xiaozhu Ju, Wei Ye, Shikun Zhang.
+
+  arXiv preprint (<font color=Blue>``arXiv 2026``</font>).
+
 - (13) GLM-5: from Vibe Coding to Agentic Engineering. [\[paper\]](https://arxiv.org/abs/2602.15763).
 
 - (12) GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models. [\[paper\]](https://arxiv.org/abs/2508.06471).
