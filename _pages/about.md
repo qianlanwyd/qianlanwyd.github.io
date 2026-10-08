@@ -19,7 +19,7 @@ redirect_from:
 
 Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several papers at the top international AI Conferences / Journals. Details of my publications can be found at <a href='https://scholar.google.com/citations?user=YomxTXQAAAAJ' target="_blank" style="text-decoration: none; margin-left: 4px;">
   <span style="color: #4285F4; font-weight: 500;">Google Scholar</span>
-</a>. If you are interested in collaboration, feel free to email me at yidongwang37[at]gmail.com (please replace [at] with @).
+</a>. **I was included in the [Stanford/Elsevier World's Top 2% Scientists list](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9).** If you are interested in collaboration, feel free to email me at yidongwang37[at]gmail.com (please replace [at] with @).
 
 # My Research Philosophy: The 3A Framework  
 **Algorithm → Assessment → Application** synergistically advances trustworthy AI (All publications mentioned below are my (co)first-author works):  
@@ -396,6 +396,7 @@ Hello, I am Yidong Wang [i:doʊn wɑ:n] (王一栋). I have published several pa
 - TorchSSL [![](https://img.shields.io/github/stars/TorchSSL/TorchSSL?style=social&label=Code+Stars)](https://github.com/TorchSSL/TorchSSL) is an all-in-one toolkit based on PyTorch for semi-supervised learning (SSL). Currently, we implemented 9 popular SSL algorithms to enable fair comparison and boost the development of SSL algorithms. I am the main contributor to this repo and now leading the TorchSSL team.
 
 # 🎖 Honors and Awards
+- **[Stanford/Elsevier World's Top 2% Scientists](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9), 2026 edition.**
 - First Place in the Entrance Examination for PhD at the School of Software and Microelectronics, Peking University, 2023.
 - Outstanding Student Award, Tokyo Institue of Technology, 2022.
 - Stars of Tomorrow, Microsoft Research Asia, 2021&2022.
